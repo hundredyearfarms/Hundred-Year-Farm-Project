@@ -6,31 +6,31 @@ Includes: agroforestry, farmland, habitat, housing, Ethereum, FreeCAD, Blender, 
 
 An experimental one hectare (2.5 acre) agroforestry home that requires no public utilities. The home has the potential to be carbon-negative while ensuring access to energy, food, water, and habitat as the climate changes over the next 100 years.
 
-The project is financially sustainable and funded through to the year 2035.
+The project is funded through to the year 2035.
 
 **OVERVIEW**
 
-During the late 1990's, the Canadian Mortgage and Housing Corporation (CMHC) sponsored the development of a [home, within the city of Toronto, that required no public water, sewer, or gas utilities and that provided most of its electrical power](http://www3.sympatico.ca/rolf/howtoronto.html). The home was integrated with a garden that captured nutrients and played a role in the home's water cycle.  The idea was that homes like this while would have less environmental impact and could be sited at lower cost in areas where there is no public infrastructure.  Further, since these homes can function after natural disasters that shut down public infrastructure, having a certain percentage of them in a region could make communities more secure.  The concept was visionary and it worked, however, the timing was such that the technology did not align well with cities that were starting to design for densification.
+During the late 1990's, the Canadian Mortgage and Housing Corporation (CMHC) sponsored the development of a [home, within the city of Toronto, that required no public water, sewer, or gas utilities and that provided most of its electrical power](http://www3.sympatico.ca/rolf/howtoronto.html). The home was integrated with a garden that captured nutrients and played a role in the home's water cycle.  The idea was that homes like this would have less environmental impact and could be sited at lower cost without public infrastructure.  Further, since these homes can function after natural disasters that shut down public infrastructure, having a certain percentage of them in a region could make communities more secure.  The concept was visionary and it worked, however, one difficulty was that the technology did not align well with cities that were starting to focus on densification.
 
 <p align="center">
 <img src="healthyHouse.svg" alt="Healthy House" width="1000">
 </p>
 
-The Hundred-Year-Farm project builds on the Toronto Healthy House concept only with the benefit of another twenty years of technology advances.  Rather than cities, the intended use is for homes on small acreages outside of cities where there are no public utilities, well, or septic system, and where the land is degrading from changes to climate or is otherwise poorly suited to agribusiness.  The home is expected to halt degradation of that land, then allow for a gradual restoration of its habitat, food, and energy production while being a carbon-sink.  This application aligns with the interests of both cities and agribusiness.
+The Hundred-Year-Farm project builds on the Toronto Healthy House concept with the benefit of another twenty years of significant technology advances.  Rather than cities, the intended use is for homes on small acreages outside of cities where there are no public utilities, well, or septic system, and where the land is degrading from changes to climate or is otherwise poorly suited to agribusiness.  The home is expected to halt degradation of that land, then allow for a gradual restoration of its habitat, food, and energy production while serving as a carbon-sink.  This application aligns with the interests of cities and agribusiness.
 
 <img title="" src="IntendedApplication.svg" alt="Healthy House" width="954" data-align="center">
 
-The project is taking place on a 42 acre parcel of land in eastern canada.  Much of the property is  judged by the owners to be at-risk of fire, erosion, and habitat loss if the climate continues to warm over the next few decades.  
+The project is located on a 42 acre parcel of land.  Much of the property is  judged by the owners to be at-risk of fire, erosion, and habitat loss if the climate continues to warm over the next few decades.  
 
 The land will be treated in three different ways.
 
-1) Most of the forested area (a former clear-cut) will be left as-is, apart from thinning where needed for tree health.  
+1) Most of the forested area (a former clear-cut) will be left as-is, apart from thinning where needed for tree health.  This continues the generally accepted practices of today.
 
-2) Some cleared areas will be replanted with trees through government reforestry programs that are designed to address the changing climate.
+2) Some cleared areas will be replanted with trees through government reforestry programs that are designed to help address the changing climate.
 
-3) The third treatment will be a 2.5 acre area with the proposed carbon-negative household.  This will involve restoration of a far more diverse population of native trees and habitat (with ponds) than is possible with the re-forestry project.  Even with the footprint of the home, we expect net carbon sinking, habitat, food and energy production to be the highest with this option.
+3) The third treatment will be a 2.5 acre carbon-negative agroforestry household.  Even with the footprint of the home, we expect net carbon sinking, habitat, food and energy production to be the highest with this option.  This is largely because with people on-site it is possible to establish a more diverse population of native trees and habitat (including ponds for birds) than the clear-cut regrowth or reforestry programs will achieve.  The on-site production of food and energy should also prove to outperform the operation of a similiar household in the city.  
 
-A life-cycle assessment and comparison of the three approaches, with third party academics or others, will allow us to make a decision on how to proceed for the long-term.  If a carbon-negative household does prove to have the highest value, then manufactured products for co-generation systems and a carbon-negative agroforesty housing development (2.5 acre lots) may be possible. 
+A planned third-party life-cycle assessment will allow us to compare results from the three options and help the farm make decision on how to proceed for the long-term.  
 
 **PROJECT MILESTONES**
 
@@ -48,19 +48,21 @@ A life-cycle assessment and comparison of the three approaches, with third party
 
 ***Present***
 
-The graphic below illustrates some of our 2022 activities.   
+The graphic below illustrates some of the project's 2022 activities.   
 
 <p align="center">
 <img src="Update2022.svg" alt="Project Update" width="1000">
 </p>
 
-Current project plans are to use a [cogeneration system](https://www.energy.gov/eere/amo/combined-heat-and-power-basics) supplemented with solar photovoltaics to provide the home with its space heating, hot water, electricity, and water purification. Yard and wood waste will be the home's biofuel with nutrients, and especially nitrogen, that the system generates being captured for use onsite. When also producing char for soil improvement, that co-generation system can become carbon negative.  The technology to do this is not new, but it still requires significant cost reduction before it will be economically viable for anything other than early product development projects such as this.  
+Current project plans are to use a [cogeneration system](https://www.energy.gov/eere/amo/combined-heat-and-power-basics) supplemented with solar photovoltaics to provide the home with its space heating, hot water, electricity, and water purification. Yard and wood waste will be the home's biofuel with nutrients, and especially nitrogen, that the system generates being captured for use onsite. When also producing char for soil improvement, that co-generation system can become carbon negative.  The technology to do this is not new, but it still requires significant development for cost reduction before it will be economically viable in general use.  We think we may know how to achieve that.
+
+Assuming successful technology development, manufactured components for cogeneration systems are possible and the development of a carbon-negative housing development (2.5 acre lots) is also a possibility.
 
 ***Future***
 
 1. Construction of the carbon-negative household through three stages:
    
-   - A carbon-negative remote workshop or office (1 person 8 hours per day).
+   - A carbon-negative workshop or office (1 person 8 hours per day).
    
    - A carbon-negative summer home for two people.
    
@@ -72,7 +74,7 @@ Current project plans are to use a [cogeneration system](https://www.energy.gov/
 
 Nancy and Brenon both grew up on small farms. Brenon worked in the development and manufacture of distributed co-generation power systems and later in the engineering of large public utilities. Nancy managed projects for new technology product development and hardware prototyping. Both have developed a keen interest in the relationship between secure communities, housing, and biodiversity in this time of changing climate and technology.
 
-You can email Leslie (Brenon) Knaggs and Nancy Knaggs at hund---yearfar-s @ protonmail.com.
+You can email the project at hund---yearfar-s @ protonmail.com.
 
 ---
 
@@ -122,7 +124,7 @@ The design and then tracking of buildings,  equipment, and crop assets over time
 
 The image below illustrates how the above software (Blender, FreeCAD, and Ethereum) could, as part of a larger set of distributed technologies, help in delivering new low-carbon technologies and housing options over the next decade.
 
-<img src="HYF-DistTechnologies.svg" alt="Distributed Technologies" width="1000">
+<img title="" src="DistTechnologies.svg" alt="Distributed Technologies" width="1000">
 
 - [DAO cooperatives](https://medium.com/nexus-mutual/digital-cooperatives-are-the-future-2b0772c1e03a)
 
@@ -137,3 +139,9 @@ The image below illustrates how the above software (Blender, FreeCAD, and Ethere
 - [DAO Legislation](https://www.wyoleg.gov/Legislation/2021/SF0038#-408)
 
 - [Gitcoin Grants](https://gitcoin.co/blog/gitcoin-grants/)
+
+
+
+
+
+<font color="grey";>Last updated 2022-08-15 by Leslie (Brenon) Knaggs,  Nancy Knaggs</font>
