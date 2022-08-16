@@ -30,7 +30,7 @@ The land will be treated in three different ways.
 
 A planned third-party life-cycle assessment will allow us to compare results from the three options and help the farm make a decision on how to proceed for the next 100 years.  
 
-Assuming successful technology development, manufactured components for the cogeneration systems are also possible as is the development of a carbon-negative housing development (2.5 acre lots).  In the shorter-term, lessons learned during research and development of low-carbon technologies for the future can provide a great deal of in-sight into other early investment opportunities with higher than average returns.  That has, so far, been a successful strategy and it is those returns that are funding this project going forward without grant, subsidy, or loans.
+Assuming successful technology development, manufactured components for the cogeneration systems are also possible as is the development of a carbon-negative housing development (2.5 acre lots).  In the shorter-term, lessons learned during research and development can provide  insight into other early investment opportunities with higher than average returns.  
 
 **PROJECT MILESTONES**
 
@@ -58,9 +58,7 @@ Current project plans are to use a [cogeneration system](https://www.energy.gov/
 
 ***Future***
 
-Technology development is, of course, difficult to predict.  Ethereum, for example, has the potential to significantly reduce the cost of delivering low-carbon technologies but it is still an immature technology with a great deal of regulatory uncertainty requiring clarification.  Advances in water purification technologies along with tools, such as AI and robotics for growing plants, could prove equally important.  
-
-Assuming success by the communities developing the various distributed technologies this project relies upon, the following timelines should be achievable.
+Technology development is difficult to predict.  Assuming success , the following timelines should be achievable.
 
 **2023-2030**: Construction of the carbon-negative household through three stages:
 
@@ -122,9 +120,9 @@ The design and then tracking of buildings,  equipment, crops, and habitat over t
 
 <u>[**IFC**]([Industry Foundation Classes (IFC) - buildingSMART International](https://www.buildingsmart.org/standards/bsi-standards/industry-foundation-classes/))</u> , or **I**ndustry **F**oundation **C**lass is an open standard for exchanging information about the physical world.  It is used to describe the built environment (buildings, equipment, roads, and infrastructure) as both a 3D geometry and a semantic language which helps machines reason about the model.  The next edition of IFC will include landscapes which we will use to model the crop and forestry aspect of our project.  IFC is commonly used by regional and municipal governments in BIM projects which means our project data is likely to be compatible with agencies we work with.  Since IFC is used for infrastructure, it is likely to remain relevant for many decades.   
 
-<u>**Ethereum**</u> is a coordinating smart-contract platform that has the long-term potential to automate business processes and, in doing so, reduce the cost of delivering low-carbon technologies and homes.  It could, for example, make manufacturing co-ops cost effective once again (e.g. DAOs for co-gen systems and kit houses) and it could automate much of the administrative costs of housing developments.  Distributed and automated KYC/AML/ATF , accounting, finance, tax payments, and especially voluntary standards and certification programs for ethics and consumer protection, among others, are still needed for this technology to mature over the coming decades.  Ethereum integration with IFC's semantics  should allow smart contracts to reason about the physical asset being represented and tied to its transactions.   The [Ernst & Young Global Blockchain Summit]([EY Global Blockchain Summit](https://pub.ey.com/public/2021/2112/2112-3933703/blockchain-summit-2022/index.html#events)) describes some of the more promising ways we see Ethereum being used in our project.
+<u>**Ethereum**</u> is a coordinating smart-contract platform that has the long-term potential to automate business processes and, in doing so, reduce the cost of delivering low-carbon technologies and homes.  It could, for example, make manufacturing co-ops cost effective once again (e.g. DAOs for co-gen systems and kit houses) and it could automate much of the administrative costs of housing developments.  Distributed and automated KYC/AML/ATF , accounting, finance, tax payments, and especially voluntary standards and certification programs for ethics and consumer protection, among others, are still needed for this technology to mature over the coming decades.  Ethereum integration with IFC's semantics  should allow smart contracts to better reason about the physical asset being represented and its transactions.   The [Ernst & Young Global Blockchain Summit]([EY Global Blockchain Summit](https://pub.ey.com/public/2021/2112/2112-3933703/blockchain-summit-2022/index.html#events)) describes some of the ways we see Ethereum being used in our project.
 
-The image below illustrates how the above software (Blender, FreeCAD, and Ethereum) can be used as part of a growing set of distributed technologies.  Over the coming decades, those technologies could help deliver new low-carbon technologies and lower-cost housing options in regions that lack capital for large scale infrastructure projects.
+The image below illustrates how the above software (Blender, FreeCAD, and Ethereum), as part of a larger set of distributed technologies, may offer cost effective and low-carbon alternatives to  climate, food, energy, habitat, and housing challenges.  
 
 <img title="" src="DistTechnologies.svg" alt="Distributed Technologies" width="1000">
 
@@ -146,7 +144,7 @@ The image below illustrates how the above software (Blender, FreeCAD, and Ethere
 
 [Agribusiness](https://www.flickr.com/photos/48631399@N07/16145919580) by [ukagriculture](https://www.flickr.com/photos/48631399@N07) is licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nd-nc/2.0/jp/?ref=openverse).
 
-[Metra Electric Line, Chicago Illinois]([Metra Electric Line, Chicago, Illinois | The Metra Electric … | Flickr](https://www.flickr.com/photos/75683070@N00/9179520017))
+[Metra Electric Line, Chicago Illinois]([Metra Electric Line, Chicago, Illinois, The Metra Electric … , Flickr](https://www.flickr.com/photos/75683070@N00/9179520017))
 
 [Preventing desertification](https://www.flickr.com/photos/75478114@N00/3861819575) by [Bert van Dijk](https://www.flickr.com/photos/75478114@N00) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse).
 
