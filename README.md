@@ -10,7 +10,7 @@ The project is funded through to the year 2035.
 
 **OVERVIEW**
 
-During the late 1990's, the Canadian Mortgage and Housing Corporation (CMHC) sponsored the development of a [home, within the city of Toronto, that required no public water, sewer, or gas utilities and that provided most of its electrical power](http://www3.sympatico.ca/rolf/howtoronto.html). The home was integrated with a garden that captured nutrients and played a role in the home's water cycle.  The idea was that homes like this would have less environmental impact and could be sited at lower cost without public infrastructure.  Further, since these homes can function after natural disasters that shut down public infrastructure, having a certain percentage of them in a region could make communities more secure.  The concept was visionary and it worked, however, one difficulty was that the technology did not align well with cities that were starting to focus on densification.
+During the late 1990's, the Canadian Mortgage and Housing Corporation (CMHC) sponsored the development of a [home, within the city of Toronto, that required no public water, sewer, or gas utilities and that provided most of its electrical power](http://www3.sympatico.ca/rolf/howtoronto.html). The home was integrated with a garden that captured nutrients and played a role in the home's water cycle.  The idea was that homes like this would have less environmental impact and could be sited at lower cost without public infrastructure.  Further, since these homes can function after natural disasters that shut down public infrastructure, having a certain percentage of them in a region could make communities more secure.  The concept was visionary and it worked, serving a family of four for several years.
 
 <p align="center">
 <img src="healthyHouse.svg" alt="Healthy House" width="1000">
@@ -30,7 +30,7 @@ The land will be treated in three different ways.
 
 A planned third-party life-cycle assessment will allow us to compare results from the three options and help the farm make a decision on how to proceed for the next 100 years.  
 
-Assuming successful technology development, manufactured components for the cogeneration systems are also possible as is the development of a carbon-negative housing development (2.5 acre lots).  In the shorter-term, lessons learned during research and development can provide  insight into other early investment opportunities with higher than average returns.  
+Assuming successful technology development, the manufacturing of components for the cogeneration systems are possible as is the development of a carbon-negative housing development (2.5 acre lots).    
 
 **PROJECT MILESTONES**
 
@@ -144,10 +144,10 @@ The image below illustrates how the above software (Blender, FreeCAD, and Ethere
 
 [Agribusiness](https://www.flickr.com/photos/48631399@N07/16145919580) by [ukagriculture](https://www.flickr.com/photos/48631399@N07) is licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nd-nc/2.0/jp/?ref=openverse).
 
-[Metra Electric Line, Chicago Illinois]([Metra Electric Line, Chicago, Illinois, The Metra Electric … , Flickr](https://www.flickr.com/photos/75683070@N00/9179520017))
+[Metra Electric Line, Chicago Illinois]([Metra Electric Line, Chicago, Illinois, The Metra Electric … , Flickr](https://www.flickr.com/photos/75683070@N00/9179520017)) by [Ken Lund]([Ken Lund | Flickr](https://www.flickr.com/photos/kenlund/)) is licenced under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
 
 [Preventing desertification](https://www.flickr.com/photos/75478114@N00/3861819575) by [Bert van Dijk](https://www.flickr.com/photos/75478114@N00) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse).
 
-[[Wakelyns Agroforestry](https://www.flickr.com/photos/120950867@N08/15061985765)" by [agforward](https://www.flickr.com/photos/120950867@N08) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse).
+[https://www.flickr.com/photos/120950867@N08/15061985765" by [agforward](https://www.flickr.com/photos/120950867@N08) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse).
 
-<font color="grey";>Page updated 2022-08-15 by Leslie (Brenon) Knaggs, Nancy Knaggs</font>
+<font color="white";>Page updated 2022-08-15 by Leslie (Brenon) Knaggs, Nancy Knaggs</font>
