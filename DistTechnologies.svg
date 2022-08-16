@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="181.97749mm"
+   height="90.882362mm"
+   viewBox="0 0 181.97748 90.882368"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="DistTechnologies.svg"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   inkscape:export-filename="HYF-DistTechnologies.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.2834042"
+     inkscape:cx="528.15879"
+     inkscape:cy="129.41204"
+     inkscape:window-width="3840"
+     inkscape:window-height="2129"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-others="false"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-grids="false"
+     inkscape:object-nodes="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path51699" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker51969"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path51967" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path51702" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path140417" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-75.120683,-75.009455)">
+    <rect
+       style="opacity:0.83994;fill:#ececec;fill-opacity:0.92072;stroke:#88898b;stroke-width:0.02;stroke-opacity:1"
+       id="rect5599"
+       width="181.69476"
+       height="90.755844"
+       x="75.150871"
+       y="75.125977" />
+    <path
+       style="fill:none;stroke:#848485;stroke-width:0.079375;stroke-opacity:1"
+       d="M 75.16037,75.159023 V 149.39829"
+       inkscape:label="MajorXDiv7"
+       id="path8721"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#848485;stroke-width:0.079375;stroke-opacity:1"
+       d="M 85.16037,75.150866 V 149.39829"
+       inkscape:label="MajorXDiv8"
+       id="path8723"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#848485;stroke-width:0.079375;stroke-opacity:1"
+       d="m 95.16037,75.12152 v 74.27677"
+       inkscape:label="MajorXDiv9"
+       id="path8725"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#848485;stroke-width:0.079375;stroke-opacity:1"
+       d="M 105.16037,75.188484 V 149.39829"
+       inkscape:label="MajorXDiv10"
+       id="path8727"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#848485;stroke-width:0.079375;stroke-opacity:1"
+       d="M 115.16037,75.208359 V 149.39829"
+       inkscape:label="MajorXDiv11"
+       id="path8729"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#848485;stroke-width:0.079375;stroke-opacity:1"
+       d="M 125.16037,75.166643 V 149.39829"
+       inkscape:label="MajorXDiv12"
+       id="path8731"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#939293;stroke-width:0.079375;stroke-opacity:1"
+       d="M 135.16037,75.208748 V 149.39829"
+       inkscape:label="MajorXDiv13"
+       id="path8733"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#939293;stroke-width:0.079375;stroke-opacity:1"
+       d="M 145.16037,75.198683 V 149.39829"
+       inkscape:label="MajorXDiv14"
+       id="path8735"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#939293;stroke-width:0.079375;stroke-opacity:1"
+       d="m 155.16037,75.14562 v 74.25267"
+       inkscape:label="MajorXDiv15"
+       id="path8737"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#848485;stroke-width:0.079375;stroke-opacity:1"
+       d="M 165.16037,75.209496 V 149.39829"
+       inkscape:label="MajorXDiv16"
+       id="path8739"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#848485;stroke-width:0.079375;stroke-opacity:1"
+       d="M 175.16037,75.240746 V 149.39829"
+       inkscape:label="MajorXDiv17"
+       id="path8741"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#848485;stroke-width:0.079375;stroke-opacity:1"
+       d="M 185.16037,75.222071 V 149.39829"
+       inkscape:label="MajorXDiv18"
+       id="path8743"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#848485;stroke-width:0.079375;stroke-opacity:1"
+       d="m 195.16037,75.20882 v 74.18947"
+       inkscape:label="MajorXDiv19"
+       id="path8745"
+       sodipodi:nodetypes="cc" />
+    <g
+       inkscape:label="MajorYGridlines"
+       id="g8749"
+       transform="translate(5.1603701,49.398292)" />
+    <rect
+       x="75.266022"
+       y="75.141747"
+       width="181.69986"
+       height="73.973732"
+       style="fill:none;stroke:#88898b;stroke-width:0.264583;stroke-opacity:1"
+       inkscape:label="Border"
+       id="rect8751"
+       ry="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 80.85533,146.19082 c 29.67417,-5.48721 72.55675,-9.47758 92.35448,-18.40403 14.72593,-7.11182 21.86304,-11.24814 21.86304,-11.24814"
+       id="path10182"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#838486;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.265, 0.265;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 162.60566,133.11983 c 0,0 11.21723,-4.03237 16.69137,-6.38027 5.319,-2.28137 15.67005,-7.47774 15.67005,-7.47774"
+       id="path18847"
+       sodipodi:nodetypes="cac" />
+    <path
+       style="fill:none;stroke:#88898b;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.265, 0.265;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 80.85533,146.19082 c 0,0 49.91763,-4.8713 74.64332,-8.94582 13.26849,-2.1865 39.47806,-8.30571 39.47806,-8.30571"
+       id="path22952"
+       sodipodi:nodetypes="cac" />
+    <path
+       style="fill:none;stroke:#838583;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.265, 0.265;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 80.85533,146.19082 c 0,0 50.22587,-3.19882 76.12842,-11.18763 8.52974,-2.63072 8.0545,-2.45676 17.57562,-5.1866 14.23769,-4.08215 20.47873,-7.41592 20.47873,-7.41592"
+       id="path43903"
+       sodipodi:nodetypes="cssc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.06, 1.06;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 194.85854,115.79328 -41.82292,-8.36527 -69.804855,-1.36745"
+       id="path49832"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#88898b;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.265, 0.265;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 80.85533,146.19082 c 0,0 55.73924,-6.92187 83.29008,-12.25505 10.34549,-2.00264 30.73388,-7.40178 30.73388,-7.40178"
+       id="path52665"
+       sodipodi:nodetypes="cac" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="170.60455"
+       y="152.48607"
+       id="text96953"><tspan
+         sodipodi:role="line"
+         id="tspan96951"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="170.60455"
+         y="152.48607">2025</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="190.71262"
+       y="152.48607"
+       id="text102661"><tspan
+         sodipodi:role="line"
+         id="tspan102659"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="190.71262"
+         y="152.48607">2035</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="150.49649"
+       y="152.48607"
+       id="text108025"><tspan
+         sodipodi:role="line"
+         id="tspan108023"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="150.49649"
+         y="152.48607">2015</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="130.38843"
+       y="152.48607"
+       id="text-2005"><tspan
+         sodipodi:role="line"
+         id="tspan109437"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="130.38843"
+         y="152.48607">2005</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="110.80935"
+       y="152.48607"
+       id="text112425"><tspan
+         sodipodi:role="line"
+         id="tspan112423"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="110.80935"
+         y="152.48607">1995</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="90.701004"
+       y="152.48607"
+       id="text116869"
+       inkscape:label="text116869"><tspan
+         sodipodi:role="line"
+         id="tspan116867"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="90.701004"
+         y="152.48607">1985</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 101.64808,134.11668 c 0,0 -0.18699,1.54221 3.41986,3.01747 1.6103,0.65864 3.32251,2.77359 3.32251,2.77359"
+       id="path140189"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 120.65523,98.936209 c 0,0 2.98883,1.705681 4.16588,2.928751 1.20463,1.25172 2.83174,4.37522 2.83174,4.37522"
+       id="path143672"
+       sodipodi:nodetypes="cac" />
+    <path
+       style="fill:none;stroke:#88898b;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.265, 0.265;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 81.101878,146.65398 c 0,0 55.292782,-2.19659 82.837162,-4.6844 10.26181,-0.92685 30.67468,-3.81276 30.67468,-3.81276"
+       id="path145909"
+       sodipodi:nodetypes="cac" />
+    <path
+       style="fill:none;stroke:#88898b;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.265, 0.265;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 81.436368,146.31872 c 0,0 52.067992,-4.31436 77.916782,-7.98669 11.94203,-1.6966 35.60054,-6.48207 35.60054,-6.48207"
+       id="path11962"
+       sodipodi:nodetypes="cac" />
+    <ellipse
+       style="opacity:0.83994;fill:none;fill-opacity:0.92072;stroke:#1d1a17;stroke-width:0.19531;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path37732"
+       cx="194.96484"
+       cy="116.0603"
+       rx="0.90569407"
+       ry="0.94880778" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="46.192238"
+       y="78.475182"
+       id="text40690"><tspan
+         sodipodi:role="line"
+         id="tspan40688"
+         style="stroke-width:0.264583"
+         x="46.192238"
+         y="78.475182" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:92.1825;display:inline;stroke-width:0.264583"
+       x="79.94812"
+       y="90.68409"
+       id="text47180"
+       transform="translate(0.75033407,-6.3622143)"><tspan
+         x="79.94812"
+         y="90.68409"
+         id="tspan2204">Centralized infrastructure provides the most value </tspan><tspan
+         x="79.94812"
+         y="95.093808"
+         id="tspan2206">today.  However, climate change creates </tspan><tspan
+         x="79.94812"
+         y="99.503537"
+         id="tspan2208">uncertainty and that makes it harder to allocate </tspan><tspan
+         x="79.94812"
+         y="103.91327"
+         id="tspan2210">large sums of capital to fixed infrastructure.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;inline-size:86.381;display:inline;stroke-width:0.264583"
+       x="104.68369"
+       y="118.37621"
+       id="text68584"
+       transform="translate(-23.940361,1.3873781)"><tspan
+         x="104.68369"
+         y="118.37621"
+         id="tspan2212">The value of distributed systems tends to grow </tspan><tspan
+         x="104.68369"
+         y="122.78593"
+         id="tspan2214">as new distributed technologies are added and </tspan><tspan
+         x="104.68369"
+         y="127.19564"
+         id="tspan2216">then build on each other.  They are not capital </tspan><tspan
+         x="104.68369"
+         y="131.60535"
+         id="tspan2218">intensive and can adapt quickly.</tspan></text>
+    <path
+       style="fill:none;stroke:#88898b;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.265, 0.265;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 81.101878,146.65398 c 0,0 60.429812,-1.10408 87.453352,-3.06585 10.75658,-0.78087 26.49111,-2.46351 26.49111,-2.46351"
+       id="path929"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#88898b;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.265, 0.265;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 81.436368,146.31872 c 0,0 50.381262,-3.0974 75.454722,-5.88515 12.68704,-1.41058 37.90137,-5.48108 37.90137,-5.48108"
+       id="path24285"
+       sodipodi:nodetypes="cac" />
+    <g
+       id="g1582"
+       transform="translate(-47.625021,5.8208336)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#111518;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="243.44469"
+         y="113.95117"
+         id="text2846"><tspan
+           sodipodi:role="line"
+           id="tspan2844"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#111518;fill-opacity:1;stroke-width:0.264583"
+           x="243.44469"
+           y="113.95117">Eth (smart contracts, DAOs)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="243.56319"
+         y="136.28348"
+         id="text2846-4"><tspan
+           sodipodi:role="line"
+           id="tspan2844-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="243.56319"
+           y="136.28348">Onsite materials (e.g. portable mills)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="243.44469"
+         y="128.17271"
+         id="text2846-44"><tspan
+           sodipodi:role="line"
+           id="tspan2844-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="243.44469"
+           y="128.17271">Dist. Water Tech (filters, UV)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1c1917;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="243.44469"
+         y="132.22214"
+         id="text2846-9"><tspan
+           sodipodi:role="line"
+           id="tspan2844-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1c1917;fill-opacity:1;stroke-width:0.264583"
+           x="243.44469"
+           y="132.22214">Dist. Cogen (heat, power, H<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan1794">2</tspan>0,N<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan1796">2</tspan>)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="243.44469"
+         y="121.11086"
+         id="text44523"><tspan
+           sodipodi:role="line"
+           id="tspan44521"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="243.44469"
+           y="121.11086">Biotech/robotic/AI farming</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1e1619;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="243.44469"
+         y="117.43224"
+         id="text128708"><tspan
+           sodipodi:role="line"
+           id="tspan128706"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1e1619;fill-opacity:1;stroke-width:0.264583"
+           x="243.44469"
+           y="117.43224">FreeCAD/Blender BIM Software</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#070000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="243.56319"
+         y="124.36681"
+         id="text24616"><tspan
+           sodipodi:role="line"
+           id="tspan24614"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#070000;fill-opacity:1;stroke-width:0.264583"
+           x="243.56319"
+           y="124.36681">Open Controllers (e.g. Ardunio) </tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:183.114;display:inline;stroke-width:0.264583"
+       x="75.354919"
+       y="157.64261"
+       id="text3220"
+       transform="translate(0.8515549,0.52916667)"><tspan
+         x="75.354919"
+         y="157.64261"
+         id="tspan2222"><tspan
+           style="font-style:italic;font-size:3.52778px;-inkscape-font-specification:'sans-serif, Italic'"
+           id="tspan2220">Blender, FreeCAD, IFC, and Ethereum are newer distributed technologies.  Perhaps as soon as 2035, </tspan></tspan><tspan
+         x="75.354919"
+         y="162.05233"
+         id="tspan2226"><tspan
+           style="font-style:italic;font-size:3.52778px;-inkscape-font-specification:'sans-serif, Italic'"
+           id="tspan2224">the value of distributed technologies could match that of central infrastructure in some regions. </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.264583"
+       x="166.38527"
+       y="160.99493"
+       id="text3224"><tspan
+         sodipodi:role="line"
+         id="tspan3222"
+         style="stroke-width:0.264583"
+         x="166.38527"
+         y="160.99493"> </tspan></text>
+  </g>
+</svg>

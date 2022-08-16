@@ -18,9 +18,7 @@ During the late 1990's, the Canadian Mortgage and Housing Corporation (CMHC) spo
 
 The Hundred-Year-Farm project builds on the Toronto Healthy House concept with the benefit of another twenty years of significant technology advances.  Rather than cities, the intended use is for homes on small acreages outside of cities where there are no public utilities, well, or septic system, and where the land is degrading from changes to climate or is otherwise poorly suited to agribusiness.  The home is expected to halt degradation of that land, then allow for a gradual restoration of its habitat, food, and energy production while serving as a carbon-sink.  This application aligns with the interests of cities and agribusiness.
 
-<img title="" src="IntendedApplication.svg" alt="Healthy House" width="954" data-align="center">
-
-The project is located on a 42 acre parcel of land.  Much of the property is  judged by the owners to be at-risk of fire, erosion, and habitat loss if the climate continues to warm over the next few decades.  
+<img title="" src="IntendedApplication.svg" alt="Healthy House" width="954" data-align="center">The project is located on a 42 acre parcel of land.  Much of the property is judged by the owners to be at-risk of fire, erosion, and habitat loss if the climate continues to warm over the next few decades.  
 
 The land will be treated in three different ways.
 
@@ -28,19 +26,21 @@ The land will be treated in three different ways.
 
 2) Some cleared areas will be replanted with trees through government reforestry programs that are designed to help address the changing climate.
 
-3) The third treatment will be a 2.5 acre carbon-negative agroforestry household.  Even with the footprint of the home, we expect net carbon sinking, habitat, food and energy production to be the highest with this option.  This is largely because with people on-site it is possible to establish a more diverse population of native trees and habitat (including ponds for birds) than the clear-cut regrowth or reforestry programs will achieve.  The on-site production of food and energy should also prove to outperform the operation of a similiar household in the city.  
+3) The third treatment will be a 2.5 acre carbon-negative agroforestry household.  Even with the footprint of the home, we expect carbon sinking, habitat, food and energy production to be the highest with this option.  This is largely because with people on-site it is possible to establish a more diverse population of native trees and habitat (including ponds for birds) than the clear-cut regrowth or reforestry programs.  The on-site production of food and energy provides further benefit when compared to a similiar household in the city.  
 
-A planned third-party life-cycle assessment will allow us to compare results from the three options and help the farm make decision on how to proceed for the long-term.  
+A planned third-party life-cycle assessment will allow us to compare results from the three options and help the farm make a decision on how to proceed for the next 100 years.  
+
+Assuming successful technology development, manufactured components for the cogeneration systems are also possible as is the development of a carbon-negative housing development (2.5 acre lots).  In the shorter-term, lessons learned during research and development of low-carbon technologies for the future can provide a great deal of in-sight into other early investment opportunities with higher than average returns.  That has, so far, been a successful strategy and it is those returns that are funding this project going forward without grant, subsidy, or loans.
 
 **PROJECT MILESTONES**
 
 ***Past***
 
-2010: Developed the concept for a stand-alone carbon-negative agroforesty home that can restore farmland and habitat.
+2010: Developed the concept for a carbon-negative agroforesty home.
 
 2013: Purchased farmland.
 
-2016: Made early investments in water technologies and in smart contract technologies that can be used to automate project work, particularly equipment manufacturing co-ops and the housing developments.
+2016: Made early investments in technologies that would be needed in a climate changing world.   In particular, water technologies and technologies that automate project work in equipment manufacturing co-ops and housing developments.
 
 2019: Initial design of the carbon-negative co-generation system.
 
@@ -54,21 +54,23 @@ The graphic below illustrates some of the project's 2022 activities.
 <img src="Update2022.svg" alt="Project Update" width="1000">
 </p>
 
-Current project plans are to use a [cogeneration system](https://www.energy.gov/eere/amo/combined-heat-and-power-basics) supplemented with solar photovoltaics to provide the home with its space heating, hot water, electricity, and water purification. Yard and wood waste will be the home's biofuel with nutrients, and especially nitrogen, that the system generates being captured for use onsite. When also producing char for soil improvement, that co-generation system can become carbon negative.  The technology to do this is not new, but it still requires significant development for cost reduction before it will be economically viable in general use.  We think we may know how to achieve that.
-
-Assuming successful technology development, manufactured components for cogeneration systems are possible and the development of a carbon-negative housing development (2.5 acre lots) is also a possibility.
+Current project plans are to use a [cogeneration system](https://www.energy.gov/eere/amo/combined-heat-and-power-basics) supplemented with solar photovoltaics to provide the home with its space heating, hot water, electricity, and water purification. Yard and wood waste will be the home's biofuel with nutrients, and especially nitrogen, that the system generates being captured for use onsite. When also producing char for soil improvement, that co-generation system can become carbon negative.  The technology to do this is not new, but it still requires significant development for cost reduction before it will be economically viable in general use.  
 
 ***Future***
 
-1. Construction of the carbon-negative household through three stages:
-   
-   - A carbon-negative workshop or office (1 person 8 hours per day).
-   
-   - A carbon-negative summer home for two people.
-   
-   - A carbon-negative year-round home for two people in a climate with cold winters.
+Technology development is, of course, difficult to predict.  Ethereum, for example, has the potential to significantly reduce the cost of delivering low-carbon technologies but it is still an immature technology with a great deal of regulatory uncertainty requiring clarification.  Advances in water purification technologies along with tools, such as AI and robotics for growing plants, could prove equally important.  
 
-2. Publish the life-cycle assessment.
+Assuming success by the communities developing the various distributed technologies this project relies upon, the following timelines should be achievable.
+
+**2023-2030**: Construction of the carbon-negative household through three stages:
+
+- A carbon-negative workshop or office (1 person 8 hours per day).
+
+- A carbon-negative summer home for two people.
+
+- A carbon-negative year-round home for two people in a climate with cold winters.
+
+**2030-2035**: Publish the life-cycle assessment.
 
 **OWNERS**
 
@@ -112,7 +114,7 @@ In climates with a winter season, cogeneration can supply homes with space heati
 
 ***Design and Coordination (Blender, FreeCAD, IFC, and Ethereum)***
 
-The design and then tracking of buildings,  equipment, and crop assets over time is a difficult problem.  That is especially true if the data is to be used for long-term research and scientific purposes.  Like many organizations we will be using a 3D file system rather than 2D file/folder structure.  In addition to buildings and equipment, this approach allows, as an example, for the history of a fruit tree to be obtained by selecting it from the 3D model.  That history may include a given tree's supplier, year planted, species, cost, tax depreciation, maintenance, yield, and height over time, among other parameters.  Below is a description of the software we are using to build such a digital twin of the project (see also the above illustration under the Milestones heading).
+The design and then tracking of buildings,  equipment, crops, and habitat over time is a difficult problem.  That is especially true if the data is to be used for long-term research and scientific purposes.  To manage data we will be using a 3D file system rather than 2D file/folder structure.  In addition to buildings and equipment, this approach allows, as an example, for the history of a fruit tree to be obtained by selecting it from the 3D model.  That history may include a given tree's supplier, year planted, species, cost, tax depreciation, maintenance, yield, and height over time, among other parameters.  Below is a description of the software we are using to build such a digital twin of the project (see also the above illustration under the Milestones heading).
 
 <u>**Blender**</u>, often used by artists, is a 3D modelling tool for visualizing and communicating project information. We use Blender to model the overall property, site layout, crops, and trees. With Blender's use of GIS and [BIM (IFC standards)]([BlenderBIM Add-on - Which IFC class should I use?](https://blenderbim.org/search-ifc-class.html)) it should prove useful when working with planners, landscape architects, biologists, agronomists, among others.  
 
@@ -122,7 +124,7 @@ The design and then tracking of buildings,  equipment, and crop assets over time
 
 <u>**Ethereum**</u> is a coordinating smart-contract platform that has the long-term potential to automate business processes and, in doing so, reduce the cost of delivering low-carbon technologies and homes.  It could, for example, make manufacturing co-ops cost effective once again (e.g. DAOs for co-gen systems and kit houses) and it could automate much of the administrative costs of housing developments.  Distributed and automated KYC/AML/ATF , accounting, finance, tax payments, and especially voluntary standards and certification programs for ethics and consumer protection, among others, are still needed for this technology to mature over the coming decades.  Ethereum integration with IFC's semantics  should allow smart contracts to reason about the physical asset being represented and tied to its transactions.   The [Ernst & Young Global Blockchain Summit]([EY Global Blockchain Summit](https://pub.ey.com/public/2021/2112/2112-3933703/blockchain-summit-2022/index.html#events)) describes some of the more promising ways we see Ethereum being used in our project.
 
-The image below illustrates how the above software (Blender, FreeCAD, and Ethereum) could, as part of a larger set of distributed technologies, help in delivering new low-carbon technologies and housing options over the next decade.
+The image below illustrates how the above software (Blender, FreeCAD, and Ethereum) can be used as part of a growing set of distributed technologies.  Over the coming decades, those technologies could help deliver new low-carbon technologies and lower-cost housing options in regions that lack capital for large scale infrastructure projects.
 
 <img title="" src="DistTechnologies.svg" alt="Distributed Technologies" width="1000">
 
@@ -140,8 +142,14 @@ The image below illustrates how the above software (Blender, FreeCAD, and Ethere
 
 - [Gitcoin Grants](https://gitcoin.co/blog/gitcoin-grants/)
 
+**[Image Credits]([Openverse &#124; WordPress.org](https://wordpress.org/openverse/search/?q=farm))**
 
+[Agribusiness](https://www.flickr.com/photos/48631399@N07/16145919580) by [ukagriculture](https://www.flickr.com/photos/48631399@N07) is licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nd-nc/2.0/jp/?ref=openverse).
 
+[Metra Electric Line, Chicago Illinois]([Metra Electric Line, Chicago, Illinois | The Metra Electric … | Flickr](https://www.flickr.com/photos/75683070@N00/9179520017))
 
+[Preventing desertification](https://www.flickr.com/photos/75478114@N00/3861819575) by [Bert van Dijk](https://www.flickr.com/photos/75478114@N00) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse).
 
-<font color="grey";>Last updated 2022-08-15 by Leslie (Brenon) Knaggs,  Nancy Knaggs</font>
+[[Wakelyns Agroforestry](https://www.flickr.com/photos/120950867@N08/15061985765)" by [agforward](https://www.flickr.com/photos/120950867@N08) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse).
+
+<font color="grey";>Page updated 2022-08-15 by Leslie (Brenon) Knaggs, Nancy Knaggs</font>
