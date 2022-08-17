@@ -142,14 +142,18 @@ The image below illustrates how the above software (Blender, FreeCAD, and Ethere
 
 - [Gitcoin Grants](https://gitcoin.co/blog/gitcoin-grants/)
 
+
+
 **[Image Credits]([Openverse &#124; WordPress.org](https://wordpress.org/openverse/search/?q=farm))**
+
+[Toronto Healthy House - Rolf Palomeimo](http://www3.sympatico.ca/rolf/index.html)  
 
 [Agribusiness](https://www.flickr.com/photos/48631399@N07/16145919580) by [ukagriculture](https://www.flickr.com/photos/48631399@N07) is licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nd-nc/2.0/jp/?ref=openverse).
 
-[Metra Electric Line, Chicago Illinois]([Metra Electric Line, Chicago, Illinois, The Metra Electric … , Flickr](https://www.flickr.com/photos/75683070@N00/9179520017)) by [Ken Lund]([Ken Lund | Flickr](https://www.flickr.com/photos/kenlund/)) is licenced under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+[Metra Electric Line, Chicago Illinois](https://www.flickr.com/photos/75683070@N00/9179520017) by [Ken Lund](https://www.flickr.com/photos/kenlund/) is licenced under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
 
 [Preventing desertification](https://www.flickr.com/photos/75478114@N00/3861819575) by [Bert van Dijk](https://www.flickr.com/photos/75478114@N00) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse).
 
-[https://www.flickr.com/photos/120950867@N08/15061985765" by [agforward](https://www.flickr.com/photos/120950867@N08) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse).
+[agforward](https://www.flickr.com/photos/120950867@N08) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse).
 
 <font color="white";>Page updated 2022-08-15 by Leslie (Brenon) Knaggs, Nancy Knaggs</font>
