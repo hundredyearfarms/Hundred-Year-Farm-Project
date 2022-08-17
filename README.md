@@ -48,17 +48,17 @@ Assuming successful technology development, the manufacturing of components for 
 
 ***Present***
 
-The graphic below illustrates some of the project's 2022 activities.   
+Covid slowed project work, however, some progress was made as 2022 as illustrated below.   
 
 <p align="center">
 <img src="Update2022.svg" alt="Project Update" width="1000">
 </p>
 
-Current project plans are to use a [cogeneration system](https://www.energy.gov/eere/amo/combined-heat-and-power-basics) supplemented with solar photovoltaics to provide the home with its space heating, hot water, electricity, and water purification. Yard and wood waste will be the home's biofuel with nutrients, and especially nitrogen, that the system generates being captured for use onsite. When also producing char for soil improvement, that co-generation system can become carbon negative.  The technology to do this is not new, but it still requires significant development for cost reduction before it will be economically viable in general use.  
+Current project plans are to use a [cogeneration system](https://www.energy.gov/eere/amo/combined-heat-and-power-basics) supplemented with solar photovoltaics to provide the home with its space heating, hot water, electricity, and water purification. Yard and wood waste will be the home's biofuel with nutrients, and especially nitrogen, that the system generates being captured for use onsite. When also producing char for soil improvement, that co-generation system can become carbon negative.  The technology to do this is not new, but it  requires significant development for cost reduction before it will be economically viable in general use.  
 
 ***Future***
 
-Technology development is difficult to predict.  Assuming success , the following timelines should be achievable.
+Technology development is difficult to predict, however, these timelines should be achievable.
 
 **2023-2030**: Construction of the carbon-negative household through three stages:
 
@@ -69,6 +69,8 @@ Technology development is difficult to predict.  Assuming success , the followin
 - A carbon-negative year-round home for two people in a climate with cold winters.
 
 **2030-2035**: Publish the life-cycle assessment.
+
+
 
 **OWNERS**
 
