@@ -16,7 +16,7 @@ During the late 1990's, the Canadian Mortgage and Housing Corporation (CMHC) spo
 <img src="healthyHouse.svg" alt="Healthy House" width="1000">
 </p>
 
-The Hundred-Year-Farm project builds on the Toronto Healthy House concept with the benefit of another twenty years of technology advances.  Rather than cities, the intended use is for homes on small acreages outside of cities where land has degraded from changes to climate or is otherwise poorly suited to agribusiness.  The home is expected to halt degradation of that land, then allow for a gradual restoration of its habitat, food, and energy production while serving as a carbon-sink.  The application does not compete with agribusiness or cities for land-use and it aligns with objectives for carbon reduction.
+The Hundred-Year-Farm project builds on the Toronto Healthy House concept with the benefit of another twenty years of technology advances.  Rather than cities, the intended use is for homes on small acreages outside of cities where land has degraded from changes to climate or is otherwise poorly suited to agribusiness.  The home is expected to halt degradation of that land, then allow for a gradual restoration of its habitat, food, and energy production while serving as a carbon-sink.  The application does not compete with agribusiness or cities for land-use and it aligns with objectives for reducing atmospheric carbon.
 
 <img title="" src="IntendedApplication.svg" alt="Healthy House" width="954" data-align="center">
 
