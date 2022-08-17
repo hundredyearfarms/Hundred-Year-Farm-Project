@@ -28,7 +28,7 @@ The land will be treated in three different ways.
 
 2) Some cleared areas will be replanted with trees through government reforestry programs that are designed to help address the changing climate.
 
-3) The third treatment will be a 2.5 acre carbon-negative agroforestry household.  Even with the footprint of the home, we expect carbon sinking, habitat, food, and energy production to be the highest with this option.  This is largely because with people on-site it is possible to establish a more diverse population of native trees and habitat (including ponds for birds) than the clear-cut regrowth or reforestry programs.  The on-site production of food and energy provides further carbon reduction benefits when compared to a similar household in the city.  
+3) The third treatment will be a 2.5 acre carbon-negative agroforestry household.  Even with the footprint of the home, we expect carbon sinking, habitat, food, and energy production to be the highest with this option.  This is because with people on-site it is possible to establish a more diverse population of native trees and habitat (including ponds for birds) than the clear-cut regrowth or reforestry programs.  The on-site production of food and energy provides further carbon reduction benefits when compared to keeping that household in the city.  
 
 A planned third-party life-cycle assessment will allow us to compare results from the three options and help the farm make a decision on how to proceed over the next 100 years.  
 
