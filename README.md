@@ -142,8 +142,6 @@ The image below illustrates how the above software (Blender, FreeCAD, and Ethere
 
 - [Gitcoin Grants](https://gitcoin.co/blog/gitcoin-grants/)
 
-
-
 **[Image Credits]([Openverse &#124; WordPress.org](https://wordpress.org/openverse/search/?q=farm))**
 
 [Toronto Healthy House - Rolf Palomeimo](http://www3.sympatico.ca/rolf/index.html)  
@@ -154,6 +152,6 @@ The image below illustrates how the above software (Blender, FreeCAD, and Ethere
 
 [Preventing desertification](https://www.flickr.com/photos/75478114@N00/3861819575) by [Bert van Dijk](https://www.flickr.com/photos/75478114@N00) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse).
 
-[agforward](https://www.flickr.com/photos/120950867@N08) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse).
+[Agforward](https://www.flickr.com/photos/120950867@N08) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse).
 
-<font color="white";>Page updated 2022-08-15 by Leslie (Brenon) Knaggs, Nancy Knaggs</font>
+<p><font color="white";>Page updated 2022-08-15 by Leslie (Brenon) Knaggs, Nancy Knaggs</font></p>
