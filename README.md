@@ -50,7 +50,7 @@ Assuming successful technology development, the manufacturing of components for 
 
 ***Present***
 
-Covid slowed project work, however, some progress was made as 2022 as illustrated below.   
+Covid slowed project work a great deal, however, some progress was made in 2021/2022 as illustrated below.   
 
 <p align="center">
 <img src="Update2022.svg" alt="Project Update" width="1000">
@@ -71,8 +71,6 @@ Technology development is difficult to predict, however, these timelines should 
 - A carbon-negative year-round home for two people in a climate with cold winters.
 
 **2030-2035**: Publish the life-cycle assessment.
-
-
 
 **OWNERS**
 
