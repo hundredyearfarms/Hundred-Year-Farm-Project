@@ -60,9 +60,9 @@ Current project plans are to use a [cogeneration system](https://www.energy.gov/
 
 ***Future***
 
-Technology development is difficult to predict.  The timelines below are stretch goals that may not  be achievable in that time frame or they simply may not be needed if changes to the climate begin to slow through other means. 
+Technology development is difficult to predict.  The objectives below are stretch goals that may not be achievable in the given time-frame or they simply may no longer be needed if changes to the climate begin to slow through other means. 
 
-In any case, the project sets aside only a small portion of the property for experimentation and can best be viewed as a hedge against the more serious outcomes of climate change.  As the project develops, the timelines may therefore be extended out or they may even be brought forward.
+In any case the project, which sets aside a small portion of the property for experimentation, can best be viewed as a hedge against the potentially more serious outcomes of climate change.  As the project develops, the timelines may therefore be extended out or they may even be brought forward.
 
 **2023-2033**: Construction of the carbon-negative household through three stages:
 
