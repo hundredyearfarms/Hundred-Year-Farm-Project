@@ -60,7 +60,7 @@ Current project plans are to use a [cogeneration system](https://www.energy.gov/
 
 ***Future***
 
-Technology development is difficult to predict.  The timelines below are deliberate stretch goals that may be achievable.  If not, the project will see how close it can get to them.
+Technology development is difficult to predict.  The timelines below are deliberate stretch goals that may not be achievable.  If not, the project will see how close it can get to them.
 
 **2023-2033**: Construction of the carbon-negative household through three stages:
 
