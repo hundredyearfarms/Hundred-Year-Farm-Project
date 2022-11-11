@@ -36,12 +36,6 @@ Assuming the agroforestry venture is successful, the manufacture of components f
 
 ***Present***
 
-Covid set the project back a couple of years, however, some progress was made in 2021/2022 as illustrated below.   
-
-<p align="center">
-<img src="Update2022.svg" alt="Project Update" width="1000">
-</p>
-
 Current project plans are to use a [cogeneration system](https://www.energy.gov/eere/amo/combined-heat-and-power-basics) supplemented with solar photovoltaics to provide the buildings with space heating, hot water, electricity, and water purification. Yard and wood waste will be used as biofuel with nutrients, and especially the nitrogen that the system generates being captured for use onsite. When also producing char for soil improvement, that co-generation system can become carbon negative.  The technology to do this is not new, but it  requires significant development for cost reduction before it will be economically viable in general use.  
 
 ***Future***
