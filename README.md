@@ -36,7 +36,7 @@ Assuming the agroforestry venture is successful, the manufacture of components f
 
 ***Present***
 
-Current project plans are to use a [cogeneration system](https://www.energy.gov/eere/amo/combined-heat-and-power-basics) supplemented with solar photovoltaics to provide the buildings with space heating, hot water, electricity, and water purification. Yard and wood waste will be used as biofuel with nutrients, and especially the nitrogen that the system generates being captured for use onsite. When also producing char for soil improvement, that co-generation system can become carbon negative.  The technology to do this is not new, but it  requires significant development for cost reduction before it will be economically viable in general use.  
+Current project plans are to use a [cogeneration system](https://www.energy.gov/eere/amo/combined-heat-and-power-basics) supplemented with solar photovoltaics to provide the buildings with space heating, hot water, electricity, and water purification. Wood waste will be used as biofuel with nutrients, and especially the nitrogen that the system generates being captured for use onsite. When also producing char for soil improvement, that co-generation system can become carbon negative.  The technology to do this is not new, but it  requires significant development for cost reduction before it will be economically viable in general use.  
 
 ***Future***
 
