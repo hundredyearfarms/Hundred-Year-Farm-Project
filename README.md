@@ -32,7 +32,7 @@ Assuming the agroforestry venture is successful, the manufacture of components f
 
 2019: Initial design of the carbon-negative co-generation system.
 
-2021: Started work on the co-generation prototype, buildings, food trails, and computer models.
+2021: Started work on the co-generation prototype (for energy), buildings, trails, and computer models.
 
 ***Present***
 
