@@ -10,7 +10,7 @@ The project is funded through to the year 2035.
 
 **OVERVIEW**
 
-The project is located on a 42 acre parcel of land.  Much of the property is at-risk of fire, erosion, and habitat loss if the climate continues to warm over the next few decades.  Agroforestry practices should mitigate that risk, however, there is still a great deal of technology development that is required before such systems will be practical enough to scale in a meaningful way.
+The project is located on a 42 acre parcel of land.  Much of the property will be at-risk of fire, erosion, and habitat loss if the climate continues to warm over the next few decades.  Agroforestry practices should mitigate that risk, however, there is still a great deal of technology development that is required before such systems will be practical enough to scale in a meaningful way.
 
 In our case, the land will be treated in three different ways.
 
