@@ -10,25 +10,25 @@ The project is funded through to the year 2035.
 
 **OVERVIEW**
 
-The project is located on a 42 acre parcel of land.  Much of the property will be at-risk of fire, erosion, and habitat loss if the climate continues to warm over the next few decades.  Agroforestry practices should mitigate that risk, however, there is still a great deal of technology development that is required before such systems will be practical enough to scale in a meaningful way.
+The project is located on a 42 acre parcel of land.  Much of the property will be at-risk of fire, erosion, and habitat loss if the climate continues to warm over the next few decades.  Agroforestry practices should be able to mitigate that risk, however, there is still a great deal of technology development that will be required before such systems are practical enough to scale in a meaningful way.
 
-In our case, the land will be treated in three different ways.
+In our case, the land will be treated in two ways.
 
-1) Most of the land will continued to be farmed through conventional agribusess and most of the forested area (a former clear-cut) will be left as-is, apart from thinning where needed for tree health.  This simply continues the generally accepted practices of today without change.
+1) Most of the land will continued to be farmed through conventional agribusess and most of the wooded area (a former clear-cut) will be maintained for the selective harvesting of wood.  This continues the generally accepted practices of today without change.
 
 2) A small portion (about 2.5 acres) will transition to carbon-negative agroforestry.  
 
-Assuming successful technology development, the manufacturing of components for such agroforestry systems is a possibility.    
+Assuming the agroforestry venture is successful, the manufacture of components for such agroforestry systems is a possibility.    
 
 **PROJECT MILESTONES**
 
 ***Past***
 
-2010: Developed the concept for a carbon-negative agroforesty home.
+2010: Developed the concept for a carbon-negative agroforesty.
 
 2013: Purchased farmland.
 
-2016: Made early investments in technologies that would be needed in a climate changing world.   In particular, water technologies and technologies that automate project work in equipment manufacturing co-ops and housing developments.
+2016: Made early investments in technologies that would be needed in a climate changing world.   In particular, water technologies and technologies that automate project work in equipment manufacturing and buildings.
 
 2019: Initial design of the carbon-negative co-generation system.
 
@@ -42,17 +42,15 @@ Covid set the project back a couple of years, however, some progress was made in
 <img src="Update2022.svg" alt="Project Update" width="1000">
 </p>
 
-Current project plans are to use a [cogeneration system](https://www.energy.gov/eere/amo/combined-heat-and-power-basics) supplemented with solar photovoltaics to provide the home with its space heating, hot water, electricity, and water purification. Yard and wood waste will be the home's biofuel with nutrients, and especially nitrogen, that the system generates being captured for use onsite. When also producing char for soil improvement, that co-generation system can become carbon negative.  The technology to do this is not new, but it  requires significant development for cost reduction before it will be economically viable in general use.  
+Current project plans are to use a [cogeneration system](https://www.energy.gov/eere/amo/combined-heat-and-power-basics) supplemented with solar photovoltaics to provide the buildings with space heating, hot water, electricity, and water purification. Yard and wood waste will be used as biofuel with nutrients, and especially the nitrogen that the system generates being captured for use onsite. When also producing char for soil improvement, that co-generation system can become carbon negative.  The technology to do this is not new, but it  requires significant development for cost reduction before it will be economically viable in general use.  
 
 ***Future***
 
-**2023-2033**: Construction of the carbon-negative household through three stages:
+**2023-2033**: Construction of supporting infrastructure for carbon-negative agroforestry through three stages:
 
-- A workshop or office (1 person 8 hours per day).
-
-- A summer home for two people.
-
-- A year-round home for two people in a climate with cold winters.
+- A utility building (pumphouse with drip irrigation mixing equipment).
+- A workshop and office building (1 person 8 hours per day).
+- A three season building (2 people, 24 hours, spring, summer, and fall).
 
 **OWNERS**
 
