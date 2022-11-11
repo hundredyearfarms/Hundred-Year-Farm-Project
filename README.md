@@ -1,38 +1,24 @@
-Includes: agroforestry, farmland, habitat, housing, Ethereum, FreeCAD, Blender, BIM, IFC
+Includes: agroforestry, farmland, habitat, buildings, Ethereum, FreeCAD, Blender, BIM, IFC
 
 ---
 
 **SUMMARY**
 
-An experimental one hectare (2.5 acre) agroforestry home that requires no public utilities. The home has the potential to be carbon-negative while ensuring access to energy, food, water, and habitat as the climate changes over the next 100 years.
+An experiment in transitioning a portion of our agribusiness farm to agroforestry.  Agroforestry has the potential to be carbon-negative while improving access to energy, food, water, and habitat as the climate changes over the next 100 years.
 
 The project is funded through to the year 2035.
 
 **OVERVIEW**
 
-During the late 1990's, the Canadian Mortgage and Housing Corporation (CMHC) sponsored the development of a [home, within the city of Toronto, that required no public water, sewer, or gas utilities and that provided most of its electrical power](http://www3.sympatico.ca/rolf/howtoronto.html). The home was integrated with a garden that captured nutrients and played a role in the home's water cycle.  The idea was that homes like this would have less environmental impact and could be sited at lower cost without public infrastructure.  Further, since these homes can function after natural disasters that shut down public infrastructure, having a certain percentage of them in a region could make communities more secure.  The concept was visionary and it worked, serving a family of four for several years.
+The project is located on a 42 acre parcel of land.  Much of the property is at-risk of fire, erosion, and habitat loss if the climate continues to warm over the next few decades.  Agroforestry practices should mitigate that risk, however, there is still a great deal of technology development that is required before such systems will be practical enough to scale in a meaningful way.
 
-<p align="center">
-<img src="healthyHouse.svg" alt="Healthy House" width="1000">
-</p>
+In our case, the land will be treated in three different ways.
 
-The Hundred-Year-Farm project builds on the Toronto Healthy House concept with the benefit of another twenty years of technology advances.  Rather than cities, the intended use is for homes on small acreages outside of cities where land has degraded from changes to climate or is otherwise poorly suited to agribusiness.  The households are expected to halt degradation of that land, then allow for a gradual restoration of its habitat, food, and energy production while serving as a carbon-sink.  The application does not compete with agribusiness or cities for land-use and it aligns with objectives for reducing atmospheric carbon.
+1) Most of the land will continued to be farmed through conventional agribusess and most of the forested area (a former clear-cut) will be left as-is, apart from thinning where needed for tree health.  This simply continues the generally accepted practices of today without change.
 
-<img title="" src="IntendedApplication.svg" alt="Healthy House" width="954" data-align="center">
+2) A small portion (about 2.5 acres) will transition to carbon-negative agroforestry.  
 
-The project is located on a 42 acre parcel of land.  Much of the property is judged by the owners to be at-risk of fire, erosion, and habitat loss if the climate continues to warm over the next few decades.  
-
-The land will be treated in three different ways.
-
-1) Most of the forested area (a former clear-cut) will be left as-is, apart from thinning where needed for tree health.  This continues the generally accepted practices of today.
-
-2) Some cleared areas will be replanted with trees through government reforestry programs that are designed to help address the changing climate.
-
-3) The third treatment will be a 2.5 acre carbon-negative agroforestry household.  Even with the footprint of the home, we expect carbon sinking, habitat, food, and energy production to be the highest with this option.  This is because with people on-site it is possible to establish a more diverse population of native trees and habitat (including ponds for birds) than the clear-cut regrowth or reforestry programs.  The on-site production of food and energy provides further carbon reduction benefits when compared to keeping that household in the city.  
-
-A planned third-party life-cycle assessment will allow us to compare results from the three options and help the farm make a decision on how to proceed over the next 100 years.  
-
-Assuming successful technology development, the manufacturing of components for the cogeneration systems are possible as is the development of a carbon-negative housing development (2.5 acre lots).    
+Assuming successful technology development, the manufacturing of components for such agroforestry systems is a possibility.    
 
 **PROJECT MILESTONES**
 
@@ -60,10 +46,6 @@ Current project plans are to use a [cogeneration system](https://www.energy.gov/
 
 ***Future***
 
-Technology development is difficult to predict.  The objectives below are stretch goals that may not be achievable in the given time-frame or they simply may no longer be needed if changes to the climate begin to slow through other means. 
-
-In any case the project, which sets aside a small portion of the property for experimentation, can best be viewed as a hedge against the potentially more serious outcomes of climate change.  As the project develops, the timelines may therefore be extended out or they may even be brought forward.
-
 **2023-2033**: Construction of the carbon-negative household through three stages:
 
 - A workshop or office (1 person 8 hours per day).
@@ -71,8 +53,6 @@ In any case the project, which sets aside a small portion of the property for ex
 - A summer home for two people.
 
 - A year-round home for two people in a climate with cold winters.
-
-**2033-2035**: Publish a third party life-cycle assessment.
 
 **OWNERS**
 
@@ -98,7 +78,7 @@ One hectare of agroforestry was chosen for this project since that is roughly ho
 
 ***Cogeneration***
 
-In climates with a winter season, cogeneration can supply homes with space heating and hot water as well as electrical power during the night and cloudy winter days.  Critically, they can help process water for re-use, produce solid carbon for soil amendment, and they can generate nitrogen rich fertilizers.  These systems complement photovoltaics which are most effective when producing electricity during the summer with its long hours of daylight.  Co-generation is a well-known and proven technology, but is not yet cost effective for typical households.  We think it could become cost-effective in our application within the next decade or so.
+In climates with a winter season, cogeneration can supply homes with space heating and hot water as well as electrical power during the night and cloudy winter days.  Critically, they can help process water for re-use, produce solid carbon for soil amendment, and they can generate nitrogen rich fertilizers.  These systems complement photovoltaics which are most effective when producing electricity during the summer with its long hours of daylight.  Co-generation is a well-known and proven technology, but is not yet cost effective at small scale.  We think it could become cost-effective in our application within the next decade or so.
 
 - [Cogeneration - US Department of Energy](https://www.energy.gov/eere/amo/combined-heat-and-power-basics)
 
