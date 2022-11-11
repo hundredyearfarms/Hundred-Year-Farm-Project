@@ -48,7 +48,7 @@ Current project plans are to use a [cogeneration system](https://www.energy.gov/
 
 **OWNERS**
 
-Nancy and Brenon both grew up on small farms. Brenon worked in the development and manufacture of distributed co-generation power systems and later in the engineering of large public utilities. Nancy managed projects for new technology product development and hardware prototyping. Both have developed a keen interest in the relationship between secure communities, housing, and biodiversity in this time of changing climate and technology.
+Nancy and Brenon both grew up on small farms. Brenon worked in the development and manufacture of distributed co-generation power systems and later in the engineering of public utilities. Nancy managed projects for new technology product development and hardware prototyping. Both have developed a keen interest in the relationship between secure communities, housing, and biodiversity in this time of changing climate and technology.
 
 You can email the project at hund---yearfar-s @ protonmail.com.
 
