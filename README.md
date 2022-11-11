@@ -113,14 +113,4 @@ The design and then tracking of buildings,  equipment, crops, and habitat over t
 
 - [Gitcoin Grants](https://gitcoin.co/blog/gitcoin-grants/)
 
-**[Image Credits]([Openverse &#124; WordPress.org](https://wordpress.org/openverse/search/?q=farm))**
 
-[Toronto Healthy House - Rolf Paloheimo](http://www3.sympatico.ca/rolf/index.html)  
-
-[Agribusiness](https://www.flickr.com/photos/48631399@N07/16145919580) by [ukagriculture](https://www.flickr.com/photos/48631399@N07) is licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nd-nc/2.0/jp/?ref=openverse).
-
-[Metra Electric Line, Chicago Illinois](https://www.flickr.com/photos/75683070@N00/9179520017) by [Ken Lund](https://www.flickr.com/photos/kenlund/) is licenced under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
-
-[Preventing desertification](https://www.flickr.com/photos/75478114@N00/3861819575) by [Bert van Dijk](https://www.flickr.com/photos/75478114@N00) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse).
-
-[Agforward](https://www.flickr.com/photos/120950867@N08) is licensed under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse).
