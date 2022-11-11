@@ -6,7 +6,7 @@ Includes: agroforestry, farmland, habitat, buildings, Ethereum, FreeCAD, Blender
 
 An experiment in transitioning a portion of our agribusiness farm to agroforestry.  Agroforestry has the potential to be carbon-negative while improving access to energy, food, water, and habitat as the climate changes over the next 100 years.
 
-The project is funded through to the year 2035.
+The project is self-funded through to the year 2035.
 
 **OVERVIEW**
 
