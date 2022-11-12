@@ -58,7 +58,7 @@ You can email the project at hund---yearfar-s @ protonmail.com.
 
 Agroforestry is the practice of planting crops among trees. The trees protect the crops from wind, heat, and water extremes such as those predicted by climate models. In general, total food productivity from agroforestry is about the same per acre as agribusiness, but it can be more reliable, support habitat, and is better suited to small scale farms with a single household. 
 
-One hectare of agroforestry was chosen for this project since that is roughly how much land it takes, in principle, to supply a small carbon-negative household with its food, water, and energy needs.  One hectare is 2.5 acres, or about half a residential city block.  For reference, there is about two hectares (5 acres) of productive arable land available to every household on earth.  
+One hectare of agroforestry was chosen for this project since that is roughly how much land it takes, in principle, to supply a small carbon-negative household with its food, water, and energy needs.  One hectare is 2.5 acres, or about half a residential city block.  For reference, there is about two hectares (5 acres) of productive arable land available for every household on earth.  
 
 - [What is agroforestry?](https://www.aftaweb.org/)
 
@@ -68,7 +68,7 @@ One hectare of agroforestry was chosen for this project since that is roughly ho
 
 ***Cogeneration***
 
-In climates with a winter season, cogeneration can supply homes with space heating and hot water as well as electrical power during the night and cloudy winter days.  Critically, they can help process water for re-use, produce solid carbon for soil amendment, and they can generate nitrogen rich fertilizers.  These systems complement photovoltaics which are most effective when producing electricity during the summer with its long hours of daylight.  Co-generation is a well-known and proven technology, but is not yet cost effective at small scale.  We think it could become cost-effective in our application within the next decade or so.
+In climates with a winter season, cogeneration can supply homes with space heating and hot water as well as electrical power during the night and cloudy winter days.  Critically, they can help process water for re-use, produce solid carbon for soil amendment, and they can generate nitrogen rich fertilizers.  These systems can be supplemented with photovoltaics which can produce useful amounts of electricity during the summer with its long hours of daylight and less need for heat.  Co-generation is a well-known and proven technology, but is not yet cost effective at small scale.  We think it could become cost-effective in our application within the next decade or so.
 
 - [Cogeneration - US Department of Energy](https://www.energy.gov/eere/amo/combined-heat-and-power-basics)
 
