@@ -68,7 +68,7 @@ One hectare of agroforestry was chosen for this project since that is roughly ho
 
 ***Cogeneration***
 
-In climates with a winter season, cogeneration can supply homes with space heating and hot water as well as electrical power during the night and cloudy winter days.  Critically, they can help process water for re-use, produce solid carbon for soil amendment, and they can generate nitrogen rich fertilizers.  These systems can be supplemented with photovoltaics which can produce useful amounts of electricity during the summer with its long hours of daylight and less need for heat.  Co-generation is a well-known and proven technology, but is not yet cost effective at small scale.  We think it could become cost-effective in our application within the next decade or so.
+In climates with a winter season, cogeneration can supply buildings with space heating and hot water as well as electrical power during the night and cloudy winter days.  Critically, they can help process water for re-use, produce solid carbon for soil amendment, and they can generate nitrogen rich fertilizers.  These systems can be supplemented with photovoltaics which can produce useful amounts of electricity during the summer with its long hours of daylight and less need for heat.  Co-generation is a well-known and proven technology, but is not yet cost effective at small scale.  We think it could become cost-effective in this specific application within the next decade or so.
 
 - [Cogeneration - US Department of Energy](https://www.energy.gov/eere/amo/combined-heat-and-power-basics)
 
