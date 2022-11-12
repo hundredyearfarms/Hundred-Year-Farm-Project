@@ -16,7 +16,7 @@ In our case, the land is being treated in two ways.
 
 2) A small portion (about 2.5 acres) will transition to carbon-negative agroforestry with habitat restoration.  This is our hedge against a possible future in which there is serious climate change and habitat loss.
 
-Assuming the agroforestry test is successful, the manufacture of components for agroforestry systems is possible along with sales of higher-value tree saplings and shrubs.  At this point, the project can best be described as being in the early stages of product development and subject to change.  
+Assuming the agroforestry test is successful, the manufacture of components for agroforestry systems is possible along with sales of higher-value tree saplings and shrubs.  At this point, the project can best be described as being in the early stages of product development and therefore subject to change.  
 
 **PROJECT MILESTONES**
 
