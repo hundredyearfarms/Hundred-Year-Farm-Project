@@ -14,7 +14,7 @@ In our case, the land is being treated in two ways.
 
 1) Most of the land will continued to be farmed through conventional agribusiness and most of the wooded area (a former clear-cut) will be maintained for the selective harvesting of wood (spruce) for lumber.  This continues the generally accepted practices of today without change.
 
-2) A small portion (about 2.5 acres) will transition to carbon-negative agroforestry with habitat restoration.  This is our hedge against a possible future with serious climate change and habitat loss.
+2) A small portion (about 2.5 acres) will transition to carbon-negative agroforestry with habitat restoration.  This is our hedge against a possible future in which there is serious climate change and habitat loss.
 
 Assuming the agroforestry test is successful, the manufacture of components for agroforestry systems is possible along with sales of higher-value tree saplings and shrubs.  At this point, the project can best be described as being in the early stages of product development and subject to change.  
 
