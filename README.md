@@ -8,7 +8,7 @@ An experiment in transitioning a portion of our agribusiness farm to agroforestr
 
 **OVERVIEW**
 
-The project is located on a 42 acre parcel of land.  Much of the property will be at risk of increased fire, erosion, and habitat loss if the climate does warm over the next few decades.  Agroforestry practices should mitigate those risks to our property, however, there is still a great deal of technology development that will be required before such systems are practical enough to scale in a meaningful way.
+The project is located on a 42 acre parcel of land.  Much of the property will be at risk of increased fire, erosion, and habitat loss if the climate warms over the next few decades.  Agroforestry practices should mitigate those risks to our property, however, there is still a great deal of technology development that will be required before such systems are practical enough to scale in a meaningful way.
 
 In our case, the land is being treated in two ways.
 
