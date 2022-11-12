@@ -34,15 +34,15 @@ Assuming the agroforestry pilot is successful, the manufacture of components for
 
 ***Present***
 
-Current project plans are to use a [cogeneration system](https://www.energy.gov/eere/amo/combined-heat-and-power-basics) supplemented with solar photovoltaics to provide the buildings with space heating, hot water, electricity, and water purification. Wood waste will be used as biofuel with nutrients, and especially the nitrogen that the system generates being captured for use onsite. When also producing char for soil improvement, that co-generation system can become carbon negative.  The technology to do this is not new, but it  requires significant development for cost reduction before it will be economically viable in general use.  
+Current project plans are to use a [cogeneration system](https://www.energy.gov/eere/amo/combined-heat-and-power-basics) supplemented with solar photovoltaics to provide the agroforestry buildings and vertical greenhouse with space heating, hot water, electricity, and water purification. Wood waste will be used as biofuel with nutrients, and especially the nitrogen that the system generates being captured for use onsite. When also producing char for soil improvement, that co-generation system can become carbon negative.  The technology to do this is not new, but it  requires significant development for cost reduction before it will be economically viable.  
 
 ***Future***
 
 **2023-2033**: Construction of supporting infrastructure for carbon-negative agroforestry through three stages:
 
 - A utility building (pumphouse with drip irrigation mixing equipment, computer controls, sensors, and lights for plant germination).
-- A workshop with office space (1 person 8 hours per day).
-- A three season building for working (2 people, 24 hours, spring, summer, and fall).
+- An equiped workshop with office space (2 people 8 hours per day).
+- A three season cabin (2 people, 24 hours, spring, summer, and fall).
 
 **OWNERS**
 
