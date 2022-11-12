@@ -12,7 +12,7 @@ The project is located on a 42 acre parcel of land.  Much of the property will b
 
 In our case, the land is being treated in two ways.
 
-1) Most of the land will continued to be farmed through conventional agribusiness and most of the wooded area (a former clear-cut) will be maintained for the selective harvesting of softwood (spruce) for lumber.  This continues the generally accepted practices of today without change.
+1) Most of the land will continue to be farmed through conventional agribusiness and most of the wooded area (a former clear-cut) will be maintained for the selective harvesting of softwood (spruce) for lumber.  This continues the generally accepted practices of today without change.
 
 2) A small portion (about 2.5 acres) will transition to carbon-negative agroforestry with habitat restoration.  This is our hedge against a possible future in which serious climate change and loss of species becomes a reality.
 
