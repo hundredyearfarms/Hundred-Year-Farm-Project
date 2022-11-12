@@ -6,19 +6,17 @@ Includes: agroforestry, farmland, habitat, buildings, Ethereum, FreeCAD, Blender
 
 An experiment in transitioning a portion of our agribusiness farm to agroforestry.  Agroforestry has the potential to be carbon-negative while improving access to energy, food, water, and habitat as the climate changes over the next 100 years.
 
-The project is self-funded through to the year 2035.
-
 **OVERVIEW**
 
-The project is located on a 42 acre parcel of land.  Much of the property will be at-risk of increased fire, erosion, and habitat loss if the climate continues to warm over the next few decades.  Agroforestry practices should mitigate that risk, however, there is still a great deal of technology development that will be required before such systems are practical enough to scale in a meaningful way.
+The project is located on a 42 acre parcel of land.  Much of the property will be at risk of increased fire, erosion, and habitat loss if the climate does warm over the next few decades.  Agroforestry practices should mitigate that risk to our property, however, there is still a great deal of technology development that will be required before such systems are practical enough to scale in a meaningful way.
 
-In our case, the land will be treated in two ways.
+In our case, the land is being treated in two ways.
 
-1) Most of the land will continued to be farmed through conventional agribusiness and most of the wooded area (a former clear-cut) will be maintained for the selective harvesting of wood.  This continues the generally accepted practices of today without change.
+1) Most of the land will continued to be farmed through conventional agribusiness and most of the wooded area (a former clear-cut) will be maintained for the selective harvesting of wood (spruce) for lumber.  This continues the generally accepted practices of today without change.
 
-2) A small portion (about 2.5 acres) will transition to carbon-negative agroforestry.  
+2) A small portion (about 2.5 acres) will transition to carbon-negative agroforestry with habitat restoration.  This is our hedge against a possible future with serious climate change and habitat loss.
 
-Assuming the agroforestry venture is successful, the manufacture of components for such agroforestry systems is a possibility.    
+Assuming the agroforestry test is successful, the manufacture of components for agroforestry systems is possible along with sales of higher-value tree saplings and shrubs.  At this point, the project can best be described as being in the early stages of product development and subject to change.  
 
 **PROJECT MILESTONES**
 
@@ -30,9 +28,9 @@ Assuming the agroforestry venture is successful, the manufacture of components f
 
 2016: Made early investments in technologies that would be needed in a climate changing world.   In particular, water technologies and technologies that automate project work in equipment manufacturing and buildings.
 
-2019: Initial design of the carbon-negative co-generation system.
+2019: Initial design of the carbon-negative co-generation system for agroforestry.
 
-2021: Started work on the co-generation prototype (for energy), buildings, trails, and computer models.
+2021: Started work on the co-generation prototype (for energy, water, nutrients), buildings, trails, and computer models.
 
 ***Present***
 
@@ -42,13 +40,13 @@ Current project plans are to use a [cogeneration system](https://www.energy.gov/
 
 **2023-2033**: Construction of supporting infrastructure for carbon-negative agroforestry through three stages:
 
-- A utility building (pumphouse with drip irrigation mixing equipment).
-- A workshop and office building (1 person 8 hours per day).
+- A utility building (pumphouse with drip irrigation mixing equipment, computer controls, sensors).
+- A workshop with office space (1 person 8 hours per day).
 - A three season building (2 people, 24 hours, spring, summer, and fall).
 
 **OWNERS**
 
-Nancy and Brenon both grew up on small farms. Brenon worked in the development and manufacture of distributed co-generation power systems and later in the engineering of public utilities. Nancy managed projects for new technology product development and hardware prototyping. Both have developed a keen interest in the relationship between secure communities, housing, and biodiversity in this time of changing climate and technology.
+Nancy and Brenon both grew up on small farms. Brenon worked in the development and manufacture of distributed co-generation power systems and later in the engineering of public utilities. Nancy managed projects for new technology product development and hardware prototyping. Both have developed a keen interest in the relationship between secure communities, energy, and biodiversity in this time of changing climate and technology.
 
 You can email the project at hund---yearfar-s @ protonmail.com.
 
