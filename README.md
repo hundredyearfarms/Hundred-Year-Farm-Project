@@ -40,9 +40,9 @@ Current project plans are to use a [cogeneration system](https://www.energy.gov/
 
 **2023-2033**: Construction of supporting infrastructure for carbon-negative agroforestry through three stages:
 
-- A utility building (pumphouse with drip irrigation mixing equipment, computer controls, sensors).
+- A utility building (pumphouse with drip irrigation mixing equipment, computer controls, sensors, and lights for plant germination).
 - A workshop with office space (1 person 8 hours per day).
-- A three season building (2 people, 24 hours, spring, summer, and fall).
+- A three season building for working (2 people, 24 hours, spring, summer, and fall).
 
 **OWNERS**
 
