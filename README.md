@@ -42,7 +42,7 @@ Current project plans are to use a [cogeneration system](https://www.energy.gov/
 
 - A utility building (pumphouse with drip irrigation mixing equipment, computer controls, sensors, and lights for plant germination).
 - An equiped workshop with office space (2 people 8 hours per day).
-- A three season cabin (2 people, 24 hours, spring, summer, and fall).
+- A three season working cabin (2 people, 24 hours, spring, summer, and fall).
 
 **OWNERS**
 
