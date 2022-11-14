@@ -22,25 +22,25 @@ Assuming the agroforestry pilot is successful, the manufacture of components for
 
 ***Past***
 
-2010: Developed the concept for a carbon-negative agroforesty.
+2010: Concept development.
 
 2013: Purchased farmland.
 
-2016: Made early investments in technologies that would be needed in a climate changing world.   In particular, water technologies and technologies that automate project work in equipment manufacturing and buildings.
+2016: Made early investments in relevant technologies. In particular, water technologies and technologies that could automate project work for equipment manufacturing and buildings.
 
-2019: Initial design of the carbon-negative co-generation system for agroforestry.
+2019: Initial design of a carbon-negative co-generation system for agroforestry.
 
-2021: Started work on the co-generation prototype (for energy, water, nutrients), buildings, trails, and computer models.
+2021: Started work on the co-generation prototype (for energy, water, nutrient capture), buildings, trails, and computer models.
 
 ***Present***
 
-Current project plans are to use a [cogeneration system](https://www.energy.gov/eere/amo/combined-heat-and-power-basics) supplemented with solar photovoltaics to provide the agroforestry buildings and vertical greenhouse with space heating, hot water, electricity, and water purification. Wood waste will be used as biofuel with nutrients, and especially the nitrogen that the system generates being captured for use onsite. When also producing char for soil improvement, that co-generation system can become carbon negative.  The technology to do this is not new, but it requires significant automation and cost reduction before it will be economically viable.  
+Current project plans are to use a [cogeneration system](https://www.energy.gov/eere/amo/combined-heat-and-power-basics) supplemented with solar photovoltaics to provide the agroforestry buildings and vertical greenhouse with space heating, hot water, electricity, and water purification. Since on-sire wood waste is plentiful, it will be used as biofuel with nutrients, and especially the nitrogen that the system generates being captured for use. When also producing char for soil improvement, that co-generation system can become carbon negative.  The technology to do this is not new, but it, and the business processes organizing it, still requires significant automation and cost reduction before it will be economically viable.  
 
 ***Future***
 
 **2023-2033**: Construction of supporting infrastructure for carbon-negative agroforestry through three stages:
 
-- A utility building (pumphouse with drip irrigation mixing equipment, computer controls, sensors, and lights for plant germination).
+- A utility building (pumphouse with drip irrigation mixing equipment, computer controls, sensors, and lights for plant germination).  The drip irrigation system itself.
 - An equiped workshop with office space (2 people 8 hours per day).
 - A three season working cabin (2 people, 24 hours, spring, summer, and fall).
 
@@ -56,9 +56,9 @@ You can email the project at hund---yearfar-s @ protonmail.com.
 
 ***Agroforestry***
 
-Agroforestry is the practice of planting crops among trees. The trees protect the crops from wind, heat, and water extremes such as those predicted by climate models. In general, total food productivity from agroforestry is about the same per acre as agribusiness, but it can be more reliable, support habitat, and is better suited to small scale farms with a single household. 
+Agroforestry is the practice of planting crops among trees. The trees protect the crops from wind, heat, and water extremes such as those predicted by climate models. In general, total food productivity from agroforestry is about the same per acre as agribusiness, but it can be more reliable, support habitat, and is better suited to small scale operations with a single household. 
 
-One hectare of agroforestry was chosen for this project since that is roughly how much land it takes, in principle, to supply a small carbon-negative household with its food, water, and energy needs.  One hectare is 2.5 acres, or about half a residential city block.  For reference, there is about two hectares (5 acres) of productive arable land available for every household on earth.  
+One hectare of agroforestry was chosen for this project since that is roughly how much land it takes, in principle, to supply a small carbon-negative household with its food, water, and energy needs.  One hectare is 2.5 acres, or about half a residential city block.  For reference, there is roughly two hectares (5 acres) of productive arable land available for every household on earth.  
 
 - [What is agroforestry?](https://www.aftaweb.org/)
 
