@@ -1,14 +1,14 @@
-Includes: agroforestry, farmland, habitat, buildings, Ethereum, FreeCAD, Blender, BIM, IFC
+Includes: agribusiness, agroforestry, farmland, habitat, buildings, Ethereum, FreeCAD, Blender, BIM, IFC
 
 ---
 
 **SUMMARY**
 
-An experiment in transitioning a portion of our agribusiness farm to agroforestry.  Agroforestry has the potential to be carbon-negative while improving access to energy, food, water, and habitat as the climate changes over the next 100 years.
+An experiment in transitioning a portion of our agribusiness farm to agroforestry.  Small-farm agroforestry has the potential to be carbon-negative while improving access to energy, food, water, and habitat as the climate changes over the next 100 years.
 
 **OVERVIEW**
 
-The project is located on a 42 acre parcel of land.  Much of the property will be at risk of increased fire, erosion, and habitat loss if the climate warms over the next few decades.  Agroforestry practices should mitigate those risks to our property, however, there is still a great deal of technology development that will be required before such systems are practical enough to scale in a meaningful way.
+The project is located on a 42 acre parcel of land.  Much of the property will be at risk of increased fire, erosion, and habitat loss if the climate warms over the next few decades.  Agroforestry practices should help mitigate those risks to our property, however, there is still a great deal of technology development that will be required before such systems are practical enough to scale in a meaningful way.
 
 In our case, the land is being treated in two ways.
 
