@@ -34,7 +34,7 @@ Assuming the agroforestry pilot is successful, the manufacture of components for
 
 ***Present***
 
-Current project plans are to use a [cogeneration system](https://www.energy.gov/eere/amo/combined-heat-and-power-basics) supplemented with solar photovoltaics to provide the agroforestry buildings and vertical greenhouse with space heating, hot water, electricity, and water purification. Since on-sire wood waste is plentiful, it will be used as biofuel with nutrients, and especially the nitrogen that the system generates being captured for use. When also producing char for soil improvement, that co-generation system can become carbon negative.  The technology to do this is not new, but it, and the business processes organizing it, still requires significant automation and cost reduction before it will be economically viable.  
+Current project plans are to use a [cogeneration system](https://www.energy.gov/eere/amo/combined-heat-and-power-basics) supplemented with solar photovoltaics to provide the agroforestry buildings and vertical greenhouse with space heating, hot water, electricity, and water purification. Since on-site wood waste from pruning and trimming is plentiful, it will be used as biofuel with nutrients, and especially the nitrogen that the system generates being captured for use. When also producing char for soil improvement, that co-generation system can become carbon negative.  The technology to do this is not new, but it, and the business processes organizing it, still require significant automation and cost reduction before they will be economically viable.  
 
 ***Future***
 
@@ -68,7 +68,7 @@ One hectare of agroforestry was chosen for this project since that is roughly ho
 
 ***Cogeneration***
 
-In climates with a winter season, cogeneration can supply buildings with space heating and hot water as well as electrical power during the night and cloudy winter days.  Critically, they can help process water for re-use, produce solid carbon for soil amendment, and they can generate nitrogen rich fertilizers.  These systems can be supplemented with photovoltaics which can produce useful amounts of electricity during the summer with its long hours of daylight and less need for heat.  Co-generation is a well-known and proven technology, but is not yet cost effective at small scale.  We think it could become cost-effective in this specific application within the next decade or so.
+In climates with a winter season, cogeneration can supply buildings with space heating and hot water as well as electrical power during the night and cloudy winter days.  Critically, they can help process water for re-use, produce solid carbon for soil amendment, and they can generate nitrogen rich fertilizers.  These systems can be supplemented with photovoltaics which can produce useful amounts of electricity during the summer with its long hours of daylight and when there is less need for heat.  Co-generation is a well-known and proven technology, but is not yet cost effective at small scale.  We think it could someday become cost-effective in this specific application where the fuel (wood waste) is available at no, or a negative cost.  
 
 - [Cogeneration - US Department of Energy](https://www.energy.gov/eere/amo/combined-heat-and-power-basics)
 
