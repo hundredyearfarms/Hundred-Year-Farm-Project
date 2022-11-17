@@ -4,17 +4,17 @@ Includes: agribusiness, agroforestry, farmland, habitat, buildings, Ethereum, Fr
 
 **SUMMARY**
 
-An experiment in transitioning a portion of our agribusiness farm to agroforestry.  Small-farm agroforestry has the potential to be carbon-negative while improving access to energy, food, water, and habitat as the climate changes over the next 100 years.
+An experiment in transitioning a portion of our agribusiness farm to agroforestry.  Agroforestry has the potential to be carbon-negative while ensuring access to energy, food, water, and habitat as the climate changes over the next 100 years.
 
 **OVERVIEW**
 
-The project is located on a 42 acre parcel of land.  Much of the property will be at risk of increased fire, erosion, and habitat loss if the climate warms over the next few decades.  Agroforestry practices should help mitigate those risks to our property, however, there is still a great deal of technology development that will be required before such systems are practical enough to scale in a meaningful way.
+The project is located on a 42 acre parcel of land.  The property will be at risk of increased fire, erosion, and habitat loss if the climate warms over the next few decades.  Agroforestry practices should help mitigate those risks to our property, however, there is still a great deal of technology development that is required before such systems are practical enough to scale in a meaningful way.
 
 In our case, the land is being treated in two ways.
 
 1) Most of the land will continue to be farmed through conventional agribusiness and most of the wooded area (a former clear-cut) will be maintained for the selective harvesting of softwood (spruce) for lumber.  This continues the generally accepted practices of today without change.
 
-2) A small portion (about 2.5 acres) will transition to carbon-negative agroforestry with habitat restoration.  This is our hedge against a possible future in which serious climate change and loss of species becomes a reality.
+2) A small portion (about 2.5 acres) will transition to carbon-negative agroforestry with habitat restoration.  This is our hedge against a possible future in which serious climate change and loss of species starts to become a reality.
 
 Assuming the agroforestry pilot is successful, the manufacture of components for agroforestry systems is possible along with sales of higher-value fruit, nut, and hardwood tree saplings and shrubs.  At this point, the project can best be described as being in the early stages of product development and therefore subject to change.  
 
