@@ -1,22 +1,22 @@
-Includes: agribusiness, agroforestry, farmland, habitat, buildings, Ethereum, FreeCAD, Blender, BIM, IFC
+Includes: agribusiness, agroforestry, habitat, buildings, Ethereum, FreeCAD, Blender, BIM, IFC
 
 ---
 
 **SUMMARY**
 
-An experiment in transitioning a portion of our agribusiness farm to agroforestry.  Agroforestry has the potential to be carbon-negative while ensuring access to energy, food, water, and habitat as the climate changes over the next 100 years.
+An experiment in transitioning a small portion of our agribusiness farmland to agroforestry.  Agroforestry has the potential to transform land no longer suitable for agribusiness back to natural habitat and a reliable source of local energy, food, materials, and water as the climate changes over the next 100 years. 
+
+While such a mix of agribusiness and agroforestry could become a generally preferred solution in the future, the necessary technology is still decades away.  This project is working towards the development of that technology and the practices that could allow it to scale in a meaningful way.  
 
 **OVERVIEW**
 
-The project is located on a 42 acre parcel of land.  The property will be at risk of increased fire, erosion, and habitat loss if the climate warms over the next few decades.  Agroforestry practices should help mitigate those risks to our property, however, there is still a great deal of technology development that is required before such systems are practical enough to scale in a meaningful way.
-
-In our case, the land is being treated in two ways.
+A 42 acre parcel of land that is being treated in two ways.
 
 1) Most of the land will continue to be farmed through conventional agribusiness and most of the wooded area (a former clear-cut) will be maintained for the selective harvesting of softwood (spruce) for lumber.  This continues the generally accepted practices of today without change.
 
-2) A small portion (about 2.5 acres) will transition to carbon-negative agroforestry with habitat restoration.  This is our hedge against a possible future in which serious climate change and loss of species starts to become a reality.
+2) A small portion (about 2.5 acres) will transition to carbon-negative agroforestry with habitat restoration.  This may involve the manufacture of hardware components for agroforestry systems along with sales of higher-value cabinetry hardwoods (oak, walnut, maple, beech) as well as fruit, nut, and hardwood tree saplings.   
 
-Assuming the agroforestry pilot is successful, the manufacture of components for agroforestry systems is possible along with sales of higher-value fruit, nut, and hardwood tree saplings and shrubs.  At this point, the project can best be described as being in the early stages of product development and therefore subject to change.  
+The project is in the early stages of product development and considered a hedge against a possible future in which serious climate change and loss of species starts to become a reality.  In that future, the value of productive land with habitat could begin to exceed that of the agribusiness portion of land, making it a good long-term strategic investment.
 
 **PROJECT MILESTONES**
 
@@ -34,7 +34,7 @@ Assuming the agroforestry pilot is successful, the manufacture of components for
 
 ***Present***
 
-Current project plans are to use a [cogeneration system](https://www.energy.gov/eere/amo/combined-heat-and-power-basics) supplemented with solar photovoltaics to provide the agroforestry buildings and vertical greenhouse with space heating, hot water, electricity, and water purification. Since on-site wood waste from pruning and trimming is plentiful, it will be used as biofuel with nutrients, and especially the nitrogen that the system generates being captured for use. When also producing char for soil improvement, that co-generation system can become carbon negative.  The technology to do this is not new, but it, and the business processes organizing it, still require significant automation and cost reduction before they will be economically viable.  
+Current project plans are to use a [cogeneration system](https://www.energy.gov/eere/amo/combined-heat-and-power-basics) supplemented with solar photovoltaics to provide the agroforestry buildings and  greenhouse with space heating, hot water, electricity, and water purification. Since on-site wood waste from pruning and trimming is plentiful, it will be used as biofuel with nutrients, and especially the nitrogen that the system generates being captured for use. When also producing char for soil improvement, that co-generation system can become carbon negative.  The technology to do this is not new, but it, and the business processes organizing it, still require significant automation and cost reduction before they will be economically viable.  
 
 ***Future***
 
