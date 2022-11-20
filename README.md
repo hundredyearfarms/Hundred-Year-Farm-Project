@@ -10,6 +10,8 @@ Agroforestry has the potential, over the next hundred years, to transition land 
 
 While such transitions could become a generally preferred solution in the future, they are not yet economically feasible and the necessary technology is decades away.  This project is working towards the long-term development of the technology and practices that could some day allow agroforestry with habitat restoration to scale in a meaningful way.  
 
+The project has been economically self-sustaining.
+
 **OVERVIEW**
 
 A 42 acre parcel of land that is being treated in two ways.
