@@ -19,7 +19,7 @@ A 42 acre parcel of land that is being treated in two ways.
 2) A small portion (about 2.5 acres) will transition to carbon-negative agroforestry with habitat restoration.  This may involve the manufacture of hardware components for agroforestry systems along with sales of the higher-value hardwoods (oak, walnut, maple, beech) as well as fruit, nut, and hardwood tree saplings.   
   
 
-**PROJECT MILESTONES**
+**MILESTONES**
 
 ***Past***
 
