@@ -4,9 +4,9 @@ Includes: agribusiness, agroforestry, habitat, buildings, Ethereum, FreeCAD, Ble
 
 **SUMMARY**
 
-An experiment in transitioning a small portion of our agribusiness farmland to agroforestry.  Agroforestry has the potential, over the next hundred years, to transform land no longer suitable for agribusiness back to natural habitat while remaining a reliable source of local energy, food, materials, and water. 
+An experiment in transitioning a small portion of our agribusiness farmland to agroforestry.  Agroforestry has the potential, over the next hundred years, to transform land no longer suitable for agribusiness back to natural habitat while also providing a reliable source of local energy, food, materials, and water. 
 
-While such a transition could become a generally preferred solution in the future, it is not yet economically feasible and the necessary technology is decades away.  This project is working towards the long-term development of that technology and the practices that could some day allow it to scale in a meaningful way.  
+While such transitions could become a generally preferred solution in the future, it is not yet economically feasible and the necessary technology is decades away.  This project is working towards the long-term development of that technology and the practices that could some day allow it to scale in a meaningful way.  
 
 **OVERVIEW**
 
@@ -15,8 +15,7 @@ A 42 acre parcel of land that is being treated in two ways.
 1) Most of the land will continue to be farmed through conventional agribusiness and most of the wooded area (a former clear-cut) will be maintained for the selective harvesting of softwood (spruce) for lumber.  This continues the generally accepted practices of today without change.
 
 2) A small portion (about 2.5 acres) will transition to carbon-negative agroforestry with habitat restoration.  This may involve the manufacture of hardware components for agroforestry systems along with sales of the higher-value hardwoods (oak, walnut, maple, beech) as well as fruit, nut, and hardwood tree saplings.   
-
-In a future where climate change and species loss becomes a serious problem, the value of productive land with habitat could begin to exceed that of the agribusiness portion of land, making it a good hedge and long-term strategic investment.    
+  
 
 **PROJECT MILESTONES**
 
