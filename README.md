@@ -18,7 +18,7 @@ A 42 acre parcel of land that is being treated in two ways.
 
 1) Most of the land will continue to be farmed through conventional agribusiness and most of the wooded area (a former clear-cut) will be maintained for the selective harvesting of softwood (spruce) for lumber.  This continues the generally accepted practices of today without change.
 
-2) A small portion (about 2.5 acres) will transition to carbon-negative agroforestry with habitat restoration.  This may involve the manufacture of hardware components for agroforestry systems along with sales of the higher-value hardwoods (oak, walnut, maple, beech) as well as fruit, nut, and hardwood tree saplings.   
+2) A small portion (about 2.5 acres) will transition to carbon-negative agroforestry with habitat restoration.  This may eventually lead to the manufacture of hardware components for agroforestry systems along with sales of the higher-value hardwoods (oak, walnut, maple, beech) as well as fruit, nut, and hardwood tree saplings.   
   
 
 **MILESTONES**
