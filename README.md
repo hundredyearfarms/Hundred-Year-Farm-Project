@@ -87,7 +87,7 @@ In climates with a winter season, cogeneration can supply buildings with space h
 
 ***Design and Coordination (Blender, FreeCAD, IFC, and Ethereum)***
 
-The effectivce design and coordination of a project of this type is a difficult problem.  Below is a description of the software we are using to build a digital twin (model) of the property.
+The effectivce design and coordination of a project of this type is a difficult problem.  Below is a description of the software we are using to build a digital twin (model) of the property that has automated business processes.
 
 **Blender:**  We use Blender [BIM and IFC](https://blenderbim.org/search-ifc-class.html) to model the overall property, site layout, crops, and trees.   This allows us to manage data using a 3D file system rather than 2D file/folder structure.  This approach allows, for example, the history of building, equipment, and trees to be obtained by selecting them from the 3D model.  That history may include a given tree's supplier, year planted, species, cost, tax depreciation, maintenance, yield, and height over time, among other parameters.  
 
