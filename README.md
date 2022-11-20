@@ -4,11 +4,11 @@ Includes: agribusiness, agroforestry, habitat, buildings, FreeCAD, Blender, BIM,
 
 **SUMMARY**
 
-We are transitioning a small portion of our agribusiness farmland to agroforestry with habitat restoration.  
+We are transitioning a small portion of our agribusiness farmland to a form of agroforestry that includes habitat restoration.  
 
-Agroforestry has the potential, over the next hundred years, to transition land that is no longer suitable for agribusiness back to natural habitat while also being a source of carbon-negative energy, food, materials, and water. 
+Agroforestry has the potential, over the next hundred years, to transition land that is no longer suitable for agribusiness back to a natural habitat that is also a local source of carbon-negative energy, food, materials, and water. 
 
-Such land transitions could become a generally preferred solution in the future, but they are not  economically feasible today and the necessary technology is still decades away.  This project is working towards the long-term development of that technology so that carbon-negative agroforestry with habitat restoration could some day scale in a meaningful way.  
+Such land transitions are not economically feasible today but, with the right technology development,  could some day begin to scale in a meaningful way.  
 
 **OVERVIEW**
 
