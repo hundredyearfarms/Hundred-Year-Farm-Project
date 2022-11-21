@@ -4,11 +4,9 @@ Includes: agribusiness, agroforestry, habitat, buildings, FreeCAD, Blender, BIM,
 
 **SUMMARY**
 
-We are transitioning a small portion of our agribusiness farmland to a form of agroforestry that includes habitat restoration.  
+We are transitioning a portion of our agribusiness farmland to agroforestry and natural habitat.  
 
-Agroforestry has the potential to transition land, that is no longer suitable for agribusiness, back to a natural habitat that is also a local source of carbon-negative energy, food, materials, and water. Such an approach could restore habitat while offsetting emmissions from the agribusiness portion of our land, potentially including emmissions from the past.
-
-Such land transitions are not economically feasible today but, with the right technology development  could, over the next hundred years, begin to scale in a meaningful way.  
+Agroforestry has the potential to transition land, that is no longer suitable for agribusiness, back to a natural habitat that also serves as a local source of carbon-negative energy, food, materials, and water. Such land transitions are not economically feasible today but, with the right technology development could, over the next few decades, begin to scale in a meaningful way.  
 
 **OVERVIEW**
 
@@ -16,7 +14,7 @@ A 42 acre parcel of land that is being treated in two ways.
 
 1) Most of the land will continue to be farmed through conventional agribusiness and most of the wooded area (a former clear-cut) will be maintained for the selective harvesting of softwood (spruce) for lumber.  This continues the generally accepted practices of today without change.
 
-2) A small portion (about 2.5 acres) will transition to carbon-negative agroforestry with habitat restoration.  This may eventually lead to the manufacture of hardware components for agroforestry systems along with sales of the higher-value hardwoods (oak, walnut, maple, beech) as well as fruit, nut, and hardwood tree saplings.   
+2) A small portion (about 2.5 acres) will transition to carbon-negative agroforestry and habitat.  This may eventually lead to the manufacture of hardware components for agroforestry systems along with sales of the higher-value hardwoods (oak, walnut, maple, beech) as well as fruit, nut, and hardwood tree saplings.   
   
 
 **MILESTONES**
