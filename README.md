@@ -31,13 +31,9 @@ A 42 acre parcel of land that is being treated in two ways.
 
 2021: Started work on the co-generation prototype (for energy, water, nutrient capture), buildings, trails, and computer models.
 
-***Present***
-
-Current project plans are to use a [cogeneration system](https://www.energy.gov/eere/amo/combined-heat-and-power-basics) supplemented with solar photovoltaics to provide the agroforestry buildings and  greenhouse with space heating, hot water, electricity, and water purification. Since on-site wood waste from pruning and trimming is plentiful, it will be used as biofuel with nutrients, and especially the nitrogen that the system generates being captured for use. When also producing char for soil improvement, that co-generation system can become carbon negative.  The technology to do this is not new, but it, and the business processes organizing it, still require significant automation and cost reduction before they will be economically viable.  
-
 ***Future***
 
-**2023-2033**: Construction of the custom agroforestry buildings:
+**2023-2033**: Construction of custom agroforestry buildings and drip irrigation system:
 
 - A utility building (pumphouse with drip irrigation mixing equipment, computer controls, sensors, and lights for plant germination).  The drip irrigation system itself.
 - An equiped workshop with office space (2 people 8 hours per day).
@@ -49,7 +45,10 @@ The buildings are specific to the agroforestry application with these features:
 - Can be assembled by two people in a wooded area with a focus on safely (no strenuous lifting, minimal ladder work, no roof work, modern applicances but no 120 volt wiring).  
 - Minimal damage to the area (e.g. no pouring of concrete, building heavy roads, no power lines on poles).
 - Buildings can be dissassembled and then reassembled, or added together, at a new location to accomodate changes in business or operation (avoid abandoned buildings and material waste).
-- heat, electricity, water processessing via cogeneration using wood waste.
+
+Heat, electricity, water processessing via cogeneration using wood waste:
+
+[cogeneration system](https://www.energy.gov/eere/amo/combined-heat-and-power-basics) supplemented with solar photovoltaics to provide the agroforestry buildings and greenhouse with space heating, hot water, electricity, and water processing. Since on-site wood waste from pruning and trimming is plentiful, it will be used as biofuel with nutrients and generated nitrogen captured for use. When also producing char for soil improvement, that co-generation system can become carbon negative.  The technology to do this is not new, but it, and the business processes organizing it, still require significant automation and cost reduction before they will be economically viable.  
 
 **OWNERS**
 
