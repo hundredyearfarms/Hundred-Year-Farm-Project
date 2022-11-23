@@ -45,10 +45,11 @@ Current project plans are to use a [cogeneration system](https://www.energy.gov/
 
 The buildings are specific to the agroforestry application with these features:
 
-- Superinsulated (e.g. 1 ft thick wall insulation)
-- Can be assembled by two people in a wooded area with a focus on safely (no strenuous lifting, minimum ladder work, no roof work, modern applicances but no 120 volt wiring).  
+- Superinsulated to prevent equipment and seedling freezing (e.g. 1 ft thick wall insulation)
+- Can be assembled by two people in a wooded area with a focus on safely (no strenuous lifting, minimal ladder work, no roof work, modern applicances but no 120 volt wiring).  
 - Minimal damage to the area (e.g. no pouring of concrete, building heavy roads, no power lines on poles).
-- Can be dissassembled and then reassembled at a new location to accomodate changes in business or operation.
+- Buildings can be dissassembled and then reassembled, or added together, at a new location to accomodate changes in business or operation (avoid abandoned buildings and material waste).
+- heat, electricity, water processessing via cogeneration using wood waste.
 
 **OWNERS**
 
