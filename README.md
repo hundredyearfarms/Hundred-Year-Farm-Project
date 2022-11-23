@@ -37,11 +37,18 @@ Current project plans are to use a [cogeneration system](https://www.energy.gov/
 
 ***Future***
 
-**2023-2033**: Construction of the custom agroforestry buildings will go through three stages:
+**2023-2033**: Construction of the custom agroforestry buildings:
 
 - A utility building (pumphouse with drip irrigation mixing equipment, computer controls, sensors, and lights for plant germination).  The drip irrigation system itself.
 - An equiped workshop with office space (2 people 8 hours per day).
 - A three season working cabin (2 people, 24 hours, spring, summer, and fall).
+
+The buildings are specific to the agroforestry application with these features:
+
+- Superinsulated (e.g. 1 ft thick wall insulation)
+- Can be assembled by two people in a wooded area with a focus on safely (no strenuous lifting, minimum ladder work, no roof work, and no 120 volt wiring).  
+- Minimal damage to the area (e.g. no pouring of concrete, building heavy roads, no power lines on poles).
+- Can be dissassembled and then reassembled at a new location to accomodate changes in business or operation.
 
 **OWNERS**
 
