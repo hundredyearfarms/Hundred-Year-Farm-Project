@@ -46,7 +46,7 @@ The buildings are specific to the agroforestry application with these features:
 - Minimal damage to area (e.g. no pouring of concrete, building heavy roads, no power lines on poles).
 - Buildings can be dissassembled and then reassembled, or added together, at a new location to accomodate changes in business or operation (and avoid abandoned buildings / material waste).
 
-Heat, electricity, water processessing via cogeneration using wood waste:
+Heat, electricity, nutrient, and water processessing via cogeneration from wood waste:
 
 [cogeneration system](https://www.energy.gov/eere/amo/combined-heat-and-power-basics) supplemented with solar photovoltaics to provide the agroforestry buildings and greenhouse with space heating, hot water, electricity, and water processing. Since on-site wood waste from pruning and trimming is plentiful, it will be used as biofuel with nutrients and generated nitrogen captured for use. When also producing char for soil improvement, that co-generation system can become carbon negative.  The technology to do this is not new, but it, and the business processes organizing it, still require significant automation and cost reduction before they will be economically viable.  
 
