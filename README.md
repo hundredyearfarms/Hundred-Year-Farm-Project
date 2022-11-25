@@ -25,7 +25,7 @@ A 42 acre parcel of land that is being treated in two ways.
 
 2013: Purchased farmland.
 
-2016: Made early investments in relevant technologies. In particular, water technologies and technologies that could automate project work for equipment manufacturing and buildings.
+2016: Made early investments in relevant technologies. In particular, water technologies and technologies that could automate project work (e.g. producing equipment and sales of high-value hardwoods).
 
 2019: Initial design of a carbon-negative co-generation system for agroforestry.
 
