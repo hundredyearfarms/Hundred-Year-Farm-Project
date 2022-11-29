@@ -33,7 +33,7 @@ A 42 acre parcel of land that is being treated in two ways.
 
 ***Future***
 
-**2023-2033**: Construction of custom agroforestry buildings and drip irrigation system:
+**2023-2033**: Construction of agroforestry buildings and drip irrigation system:
 
 - A utility building (pumphouse with drip irrigation mixing equipment, computer controls, sensors, and vertical greenhouse area for plant germination).  The drip irrigation system itself.
 - An equiped workshop with office space (2 people 8 hours per day).
