@@ -94,14 +94,16 @@ In climates with a winter season, cogeneration can supply buildings with space h
 
 The effective design and coordination of a project of this type is a difficult problem.  Below is a description of the software we are using to build a digital twin (model) of the property that has automated business processes.
 
-**Blender:**  We use Blender [BIM and IFC](https://blenderbim.org/search-ifc-class.html) to model the overall property, site layout, crops, and trees.   This allows us to manage data using a 3D file system rather than 2D file/folder structure.  This approach allows, for example, the history of building, equipment, and trees to be obtained by selecting them from the 3D model.  That history may include a given tree's supplier, year planted, species, cost, tax depreciation, maintenance, yield, and height over time, among other parameters.  
+**Blender:**  We use Blender [BIM and IFC](https://blenderbim.org/search-ifc-class.html) to model the overall property, site layout, crops, and trees.   This allows us to manage data using a 3D file system rather than 2D file/folder structure.  This approach allows, for example, the history of building, equipment, and trees to be obtained by selecting them from the 3D model.  That history may include a given tree's supplier, year planted, species, cost, tax depreciation, maintenance, yield, and height over time, among other attributes.  
 
 **FreeCAD:**  This is a 3D modelling tool typically used by trades and engineers.   In our project it is used to design metal parts for the co-gen system and we use it to detail building construction (e.g. wall framing).  FreeCAD is generally used when more precision and design computation (e.g. heat flow) is needed than Blender is designed for.  FreeCAD, like Blender, can use IFC for data exchange. 
 
 **IFC** or [Industry Foundation Class](https://www.buildingsmart.org/standards/bsi-standards/industry-foundation-classes/)  is an open standard for exchanging information about the physical world.  It is used to describe the built environment (buildings, equipment, roads, and infrastructure) as both a 3D geometry and a language which helps machines reason about the model.  The next edition of IFC will include landscapes which we will use to model the crop and forestry aspect of our project.  IFC is commonly used by regional and municipal governments which aids in compatibility and helps ensure the data format will persist for many decades.    
 
-**Ethereum** is a coordinating smart-contract platform that has the long-term potential to automate business processes and, in doing so, reduce the cost of delivering low-carbon technologies.  It could, for example, make manufacturing co-ops cost effective once again (e.g. DAOs for co-gen systems and kit buildings).  Distributed and automated KYC/AML/ATF, accounting, finance, tax payments, and especially voluntary standards and certification programs for consumer protection, among others, are still needed for this technology to mature and be adopted over the coming decade.  Ethereum integration with IFC's semantics should allow smart contracts to better reason about the physical asset being represented and its transactions.   The [Ernst & Young Global Blockchain Summit](https://pub.ey.com/public/2021/2112/2112-3933703/blockchain-summit-2022/index.html#events)) describes some of the future ways we see Ethereum being used in our project.  While this technology remains unproven, it is probably not realistic for most product development in our region to be successful without it. 
+**Ethereum** is a coordinating smart-contract platform that has the long-term potential to automate business processes and, in doing so, reduce the cost of delivering low-carbon technologies.  It could, for example, make manufacturing co-ops cost effective once again (e.g. DAOs for co-gen systems and kit buildings).  Distributed and automated KYC/AML/ATF, accounting, finance, tax payments, and especially voluntary standards and certification programs for consumer protection, among others, are still needed for this technology to mature and be adopted over the coming decade.  Ethereum integration with IFC's semantics should allow smart contracts to better reason about the physical asset being represented and its transactions.   The [Ernst & Young Global Blockchain Summit](https://pub.ey.com/public/2021/2112/2112-3933703/blockchain-summit-2022/index.html#events) describes some of the future ways we see Ethereum being used in our project.  While this technology remains unproven, it is probably not realistic for most product development in our region to be successful without it. 
 
+
+- [Ernst & Young Global Blockchain Summit](https://pub.ey.com/public/2021/2112/2112-3933703/blockchain-summit-2022/index.html#events)
 
 - [DAO cooperatives](https://medium.com/nexus-mutual/digital-cooperatives-are-the-future-2b0772c1e03a)
 
@@ -116,5 +118,7 @@ The effective design and coordination of a project of this type is a difficult p
 - [DAO Legislation](https://www.wyoleg.gov/Legislation/2021/SF0038#-408)
 
 - [Gitcoin Grants](https://gitcoin.co/blog/gitcoin-grants/)
+
+
 
 
