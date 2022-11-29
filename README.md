@@ -43,8 +43,8 @@ The buildings are specific to the agroforestry application with these features:
 
 - Superinsulated to prevent equipment and seedling freezing (e.g. 1 ft thick wall insulation).
 - Can be assembled by two people in a wooded area with a focus on safely (no strenuous lifting, minimal ladder work, no roof work, modern appliances but no 120 volt wiring).  
-- Minimal damage to area (e.g. no pouring of concrete, building heavy roads, no power lines on poles).
-- Buildings can be dissassembled and then reassembled, or added together, at a new location to accomodate changes in business or operation (and avoid abandoned buildings / material waste).
+- Minimal damage to area (e.g. no concrete, heavy roads, power lines on poles).
+- Buildings can be dissassembled and then reassembled, or added together, at a new location to accomodate changes in business or operation (and to avoid abandoned buildings while reducing the cost of materials).
 
 Heat, electricity, nutrient, and water processessing via cogeneration from wood waste:
 
